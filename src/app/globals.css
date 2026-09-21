@@ -332,6 +332,7 @@
 .leaibot-nav:focus-within .leaibot-nav-link,
 .leaibot-nav[data-open="true"] .leaibot-nav-link { opacity: 1; transform: none; }
 .leaibot-nav-link:hover { color: var(--leaibot-aubergine); }
+.leaibot-nav-link[data-active="true"] { background: var(--leaibot-lavender-hover); color: var(--leaibot-aubergine); font-weight: 700; }
 
 .leaibot-actions { justify-self: end; height: 50px; display: flex; align-items: center; gap: 14px; }
 .leaibot-icon-button {
@@ -362,6 +363,27 @@
   color: var(--leaibot-text-soft);
   font-size: 13px;
 }
+
+.leaibot-section-stage { justify-content: center; padding-bottom: 54px; }
+.leaibot-section {
+  width: min(920px, calc(100vw - 64px));
+  padding: 46px;
+  border: 1px solid rgba(226, 221, 235, 0.88);
+  border-radius: 28px;
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: var(--leaibot-shadow-medium);
+  text-align: center;
+}
+.leaibot-section-eyebrow { margin: 0 0 6px; color: var(--leaibot-aubergine); font-size: 14px; font-weight: 700; letter-spacing: 0.12em; }
+.leaibot-section h1 { margin: 0; background: var(--leaibot-gradient); background-clip: text; color: transparent; font-size: clamp(30px, 3.1vw, 44px); line-height: 1.2; }
+.leaibot-section-description { max-width: 650px; margin: 16px auto 30px; color: var(--leaibot-text-soft); font-size: 16px; }
+.leaibot-section-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 16px; text-align: left; }
+.leaibot-section-card { min-height: 178px; padding: 22px; border: 1px solid var(--leaibot-border); border-radius: 18px; background: linear-gradient(145deg, #fff 25%, #faf5fb 100%); }
+.leaibot-section-card > span { color: var(--leaibot-brand-red); font-size: 20px; }
+.leaibot-section-card h2 { margin: 14px 0 7px; color: var(--leaibot-aubergine-dark); font-size: 18px; }
+.leaibot-section-card p { margin: 0; color: var(--leaibot-text-soft); font-size: 14px; line-height: 1.7; }
+.leaibot-back-home { width: fit-content; margin: 28px auto 0; display: inline-flex; align-items: center; gap: 8px; padding: 9px 16px; border-radius: 10px; background: var(--leaibot-lavender-hover); color: var(--leaibot-aubergine); font-weight: 700; text-decoration: none; }
+.leaibot-back-home:hover { background: #eadbed; }
 
 .leaibot-welcome {
   flex: 0 0 auto;

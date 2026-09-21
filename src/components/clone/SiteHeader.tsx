@@ -1,15 +1,24 @@
 "use client";
 
 import Image from "next/image";
+import Link from "next/link";
+import { usePathname } from "next/navigation";
 import { useEffect, useRef, useState } from "react";
 
 const assetRoot = "/sites/p0-leaibot-cn-a9b751a9/root-8a5edab2";
 
-const navItems = ["首页", "个人及家庭", "中小企业", "政教及大企业", "品牌"] as const;
+const navItems = [
+  { href: "/", label: "首页" },
+  { href: "/explore/personal", label: "个人及家庭" },
+  { href: "/explore/small-business", label: "中小企业" },
+  { href: "/explore/enterprise", label: "政教及大企业" },
+  { href: "/explore/brand", label: "品牌" },
+] as const;
 
 type PopoverName = "orders" | "account" | null;
 
 export function SiteHeader() {
+  const pathname = usePathname();
   const headerRef = useRef<HTMLElement>(null);
   const [isNavOpen, setIsNavOpen] = useState(false);
   const [activePopover, setActivePopover] = useState<PopoverName>(null);
@@ -44,11 +53,10 @@ export function SiteHeader() {
 
   return (
     <header ref={headerRef} className="leaibot-header leaibot-fade">
-      <a
+      <Link
         className="leaibot-logo"
-        href="#"
+        href="/"
         aria-label="联想乐享首页"
-        onClick={(event) => event.preventDefault()}
       >
         <Image
           className="leaibot-logo-image"
@@ -58,7 +66,7 @@ export function SiteHeader() {
           height={30}
           priority
         />
-      </a>
+      </Link>
 
       <nav className="leaibot-nav" data-open={isNavOpen} aria-label="主导航">
         <button
@@ -73,14 +81,15 @@ export function SiteHeader() {
 
         <div className="leaibot-nav-links" id="leaibot-primary-navigation">
           {navItems.map((item) => (
-            <a
+            <Link
               className="leaibot-nav-link"
-              href="#"
-              key={item}
-              onClick={(event) => event.preventDefault()}
+              data-active={pathname === item.href}
+              href={item.href}
+              key={item.href}
+              onClick={() => setIsNavOpen(false)}
             >
-              {item}
-            </a>
+              {item.label}
+            </Link>
           ))}
         </div>
       </nav>

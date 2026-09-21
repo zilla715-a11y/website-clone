@@ -1,6 +1,7 @@
 "use client";
 
 import { useEffect, useRef, useState } from "react";
+import { useRouter } from "next/navigation";
 
 import { Composer } from "@/components/clone/Composer";
 import { ContentGallery } from "@/components/clone/ContentGallery";
@@ -15,6 +16,12 @@ interface ConversationMessage {
 interface SimulatedReply {
   content: string;
   suggestions: string[];
+}
+
+interface CloneExperienceProps {
+  initialMessage?: string;
+  initialMode?: string;
+  initialReasoning?: boolean;
 }
 
 const defaultSuggestions = ["预算 6000 元怎么选？", "适合办公的轻薄本", "附近门店怎么查询？"];
@@ -89,13 +96,41 @@ function createSimulatedReply(query: string, mode: string, reasoning: boolean): 
   };
 }
 
-export function CloneExperience() {
-  const [messages, setMessages] = useState<ConversationMessage[]>([]);
+export function CloneExperience({
+  initialMessage,
+  initialMode = "商品导购",
+  initialReasoning = true,
+}: CloneExperienceProps = {}) {
+  const router = useRouter();
+  const [messages, setMessages] = useState<ConversationMessage[]>(() =>
+    initialMessage ? [{ id: 1, role: "user", content: initialMessage }] : [],
+  );
   const [suggestions, setSuggestions] = useState(defaultSuggestions);
-  const [isThinking, setIsThinking] = useState(false);
-  const nextIdRef = useRef(1);
+  const [isThinking, setIsThinking] = useState(Boolean(initialMessage));
+  const nextIdRef = useRef(initialMessage ? 2 : 1);
   const replyTimerRef = useRef<ReturnType<typeof setTimeout> | null>(null);
   const threadEndRef = useRef<HTMLDivElement>(null);
+
+  useEffect(() => {
+    if (!initialMessage) return;
+
+    const reply = createSimulatedReply(initialMessage, initialMode, initialReasoning);
+    const replyTimer = setTimeout(() => {
+      setMessages((current) => [
+        ...current,
+        { id: nextIdRef.current++, role: "assistant", content: reply.content },
+      ]);
+      setSuggestions(reply.suggestions);
+      setIsThinking(false);
+      replyTimerRef.current = null;
+    }, initialReasoning ? 900 : 450);
+    replyTimerRef.current = replyTimer;
+
+    return () => {
+      clearTimeout(replyTimer);
+      if (replyTimerRef.current === replyTimer) replyTimerRef.current = null;
+    };
+  }, [initialMessage, initialMode, initialReasoning]);
 
   useEffect(() => {
     threadEndRef.current?.scrollIntoView({ behavior: "smooth", block: "nearest" });
@@ -110,6 +145,16 @@ export function CloneExperience() {
   const sendMessage = (message: string, mode = "商品导购", reasoning = true) => {
     const trimmedMessage = message.trim();
     if (!trimmedMessage || isThinking) return;
+
+    if (!initialMessage && messages.length === 0) {
+      const params = new URLSearchParams({
+        message: trimmedMessage,
+        mode,
+        reasoning: reasoning ? "1" : "0",
+      });
+      router.push(`/chat?${params.toString()}`);
+      return;
+    }
 
     setMessages((current) => [
       ...current,
@@ -135,6 +180,7 @@ export function CloneExperience() {
     setMessages([]);
     setSuggestions(defaultSuggestions);
     setIsThinking(false);
+    if (initialMessage) router.push("/");
   };
 
   if (messages.length === 0 && !isThinking) {

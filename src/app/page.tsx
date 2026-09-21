@@ -1,6 +1,4 @@
-import { Composer } from "@/components/clone/Composer";
-import { ContentGallery } from "@/components/clone/ContentGallery";
-import { HeroIntro } from "@/components/clone/HeroIntro";
+import { CloneExperience } from "@/components/clone/CloneExperience";
 import { LegalFooter } from "@/components/clone/LegalFooter";
 import { SiteHeader } from "@/components/clone/SiteHeader";
 
@@ -9,9 +7,7 @@ export default function Home() {
     <main className="leaibot-clone">
       <SiteHeader />
       <div className="leaibot-stage">
-        <HeroIntro />
-        <Composer />
-        <ContentGallery />
+        <CloneExperience />
       </div>
       <LegalFooter />
     </main>

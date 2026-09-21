@@ -135,7 +135,11 @@ const CATEGORY_BY_ID = new Map(
   GALLERY_CATEGORIES.map((category) => [category.id, category]),
 );
 
-export function ContentGallery() {
+interface ContentGalleryProps {
+  onCardSelect?: (prompt: string) => void;
+}
+
+export function ContentGallery({ onCardSelect }: ContentGalleryProps) {
   const [activeCategory, setActiveCategory] =
     useState<GalleryCategory>("new");
   const [displayedCategory, setDisplayedCategory] =
@@ -215,7 +219,20 @@ export function ContentGallery() {
         data-switching={String(isSwitching)}
       >
         {gallery.cards.map((card) => (
-          <article className="leaibot-card" key={card.name}>
+          <article
+            className="leaibot-card"
+            key={card.name}
+            role="button"
+            tabIndex={0}
+            aria-label={`查看${card.name}`}
+            onClick={() => onCardSelect?.(`请详细介绍${card.name}，并给我购买建议`)}
+            onKeyDown={(event) => {
+              if (event.key === "Enter" || event.key === " ") {
+                event.preventDefault();
+                onCardSelect?.(`请详细介绍${card.name}，并给我购买建议`);
+              }
+            }}
+          >
             <div
               className="leaibot-card-visual"
               data-tone={card.visualTone ?? "aubergine"}

@@ -7,6 +7,7 @@ import {
   useRef,
   useState,
   type ChangeEvent,
+  type KeyboardEvent as ReactKeyboardEvent,
 } from "react";
 
 const ASSET_ROOT = "/sites/p0-leaibot-cn-a9b751a9/root-8a5edab2";
@@ -14,12 +15,20 @@ const MAX_TEXTAREA_HEIGHT = 148;
 
 const MORE_OPTIONS = ["门店查询", "职场认证", "服务预约"] as const;
 
-export function Composer() {
+interface ComposerProps {
+  disabled?: boolean;
+  onSend?: (message: string, mode: string, reasoning: boolean) => void;
+}
+
+export function Composer({ disabled = false, onSend }: ComposerProps) {
   const [message, setMessage] = useState("");
   const [isReasoningEnabled, setIsReasoningEnabled] = useState(true);
   const [isMoreOpen, setIsMoreOpen] = useState(false);
+  const [activeMode, setActiveMode] = useState("解决方案");
+  const [attachmentName, setAttachmentName] = useState("");
   const moreRef = useRef<HTMLDivElement>(null);
   const textareaRef = useRef<HTMLTextAreaElement>(null);
+  const fileInputRef = useRef<HTMLInputElement>(null);
 
   const resizeTextarea = useCallback(() => {
     const textarea = textareaRef.current;
@@ -67,12 +76,29 @@ export function Composer() {
   };
 
   const handleSend = () => {
-    if (!message.trim()) {
+    const trimmedMessage = message.trim();
+
+    if (!trimmedMessage || disabled) {
       return;
     }
 
+    onSend?.(trimmedMessage, activeMode, isReasoningEnabled);
     setMessage("");
+    setAttachmentName("");
     requestAnimationFrame(resizeTextarea);
+    textareaRef.current?.focus();
+  };
+
+  const handleKeyDown = (event: ReactKeyboardEvent<HTMLTextAreaElement>) => {
+    if (event.key === "Enter" && !event.shiftKey) {
+      event.preventDefault();
+      handleSend();
+    }
+  };
+
+  const selectMode = (mode: string) => {
+    setActiveMode(mode);
+    setIsMoreOpen(false);
     textareaRef.current?.focus();
   };
 
@@ -86,8 +112,19 @@ export function Composer() {
           placeholder="推荐笔记本电脑"
           rows={1}
           value={message}
+          disabled={disabled}
           onChange={handleMessageChange}
+          onKeyDown={handleKeyDown}
         />
+
+        {attachmentName ? (
+          <div className="leaibot-attachment" role="status">
+            已选择图片：{attachmentName}
+            <button type="button" onClick={() => setAttachmentName("")} aria-label="移除图片">
+              ×
+            </button>
+          </div>
+        ) : null}
 
         <div className="leaibot-composer-actions">
           <div className="leaibot-action-group">
@@ -110,10 +147,20 @@ export function Composer() {
             </button>
 
             <div className="leaibot-scope-group">
-              <button className="leaibot-control" type="button">
+              <button
+                className="leaibot-control"
+                type="button"
+                aria-pressed={activeMode === "解决方案"}
+                onClick={() => selectMode("解决方案")}
+              >
                 解决方案
               </button>
-              <button className="leaibot-control" type="button">
+              <button
+                className="leaibot-control"
+                type="button"
+                aria-pressed={activeMode === "商品导购"}
+                onClick={() => selectMode("商品导购")}
+              >
                 商品导购
               </button>
 
@@ -135,9 +182,10 @@ export function Composer() {
                       <button
                         className="leaibot-control"
                         type="button"
-                        role="menuitem"
+                        role="menuitemradio"
                         key={option}
-                        onClick={() => setIsMoreOpen(false)}
+                        aria-checked={activeMode === option}
+                        onClick={() => selectMode(option)}
                       >
                         {option}
                       </button>
@@ -153,6 +201,7 @@ export function Composer() {
               className="leaibot-image-button"
               type="button"
               aria-label="添加图片"
+              onClick={() => fileInputRef.current?.click()}
             >
               <Image
                 className="leaibot-square-icon"
@@ -163,11 +212,19 @@ export function Composer() {
                 height={16}
               />
             </button>
+            <input
+              ref={fileInputRef}
+              className="leaibot-file-input"
+              type="file"
+              accept="image/*"
+              tabIndex={-1}
+              onChange={(event) => setAttachmentName(event.target.files?.[0]?.name ?? "")}
+            />
             <button
               className="leaibot-send-button"
               type="button"
               aria-label="发送消息"
-              disabled={!message.trim()}
+              disabled={!message.trim() || disabled}
               onClick={handleSend}
             >
               <Image

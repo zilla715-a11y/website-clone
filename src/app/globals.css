@@ -449,6 +449,9 @@
 .leaibot-more-menu .leaibot-control { width: 100%; justify-content: flex-start; border-color: transparent; }
 .leaibot-composer-right { display: flex; align-items: center; gap: 8px; margin-left: auto; }
 .leaibot-image-button { width: 38px; height: 38px; display: grid; place-items: center; border: 1px solid var(--leaibot-border); border-radius: 11px; background: #fff; cursor: pointer; }
+.leaibot-file-input { position: absolute; width: 1px; height: 1px; overflow: hidden; opacity: 0; pointer-events: none; }
+.leaibot-attachment { display: inline-flex; align-items: center; gap: 7px; max-width: 100%; margin-top: 7px; padding: 4px 8px; border-radius: 7px; background: var(--leaibot-lavender-weak); color: var(--leaibot-aubergine); font-size: 12px; }
+.leaibot-attachment button { width: 18px; height: 18px; padding: 0; border: 0; border-radius: 50%; background: #fff; color: inherit; cursor: pointer; line-height: 1; }
 .leaibot-send-button { width: 40px; height: 40px; display: grid; place-items: center; border: 0; border-radius: 50%; background: var(--leaibot-gradient); cursor: pointer; transition: transform 0.2s var(--leaibot-spring), box-shadow 0.2s, opacity 0.2s; }
 .leaibot-send-button:disabled { opacity: 0.4; cursor: not-allowed; }
 .leaibot-send-button:not(:disabled):hover { transform: translateY(-2px) scale(1.05); box-shadow: 0 9px 22px rgba(155, 142, 182, 0.62); }
@@ -466,7 +469,8 @@
 .leaibot-gallery-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 20px; margin-top: 16px; transition: opacity 0.2s var(--leaibot-ease), transform 0.2s var(--leaibot-ease); }
 .leaibot-gallery-grid[data-switching="true"] { opacity: 0; transform: translateY(8px); }
 .leaibot-card { overflow: hidden; border: 1px solid var(--leaibot-border); border-radius: 18px; background: #fff; box-shadow: var(--leaibot-shadow-small); cursor: pointer; transition: transform 0.22s var(--leaibot-ease), box-shadow 0.22s var(--leaibot-ease), border-color 0.22s var(--leaibot-ease); }
-.leaibot-card:hover { transform: translateY(-6px); border-color: rgba(146, 86, 214, 0.16); box-shadow: 0 18px 42px rgba(146, 86, 214, 0.16); }
+.leaibot-card:hover,
+.leaibot-card:focus-visible { transform: translateY(-6px); border-color: rgba(146, 86, 214, 0.16); box-shadow: 0 18px 42px rgba(146, 86, 214, 0.16); outline: none; }
 .leaibot-card-visual { position: relative; height: clamp(138px, 17vh, 162px); overflow: hidden; background: linear-gradient(135deg, #0c2342 0%, #5b1452 62%, #bb1836 100%); }
 .leaibot-card-visual[data-tone="lavender"] { background: linear-gradient(135deg, #5b1452 0%, #a262d7 62%, #a262d7 100%); }
 .leaibot-card-visual[data-tone="slate"] { background: linear-gradient(135deg, #625b68 0%, #979797 62%, #48d39e 100%); }
@@ -478,6 +482,50 @@
 .leaibot-card-name { color: var(--leaibot-text); font-size: 15.5px; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .leaibot-card-description { color: var(--leaibot-text-soft); font-size: 12.5px; line-height: 1.45; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .leaibot-card-foot { display: none; }
+
+.leaibot-chat-shell {
+  position: relative;
+  z-index: 4;
+  width: var(--leaibot-shell);
+  height: calc(100vh - 118px);
+  max-height: 720px;
+  min-height: 560px;
+  margin: 20px auto 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid rgba(91, 20, 82, 0.12);
+  border-radius: 22px;
+  background: rgba(255, 255, 255, 0.88);
+  box-shadow: 0 18px 55px rgba(75, 38, 83, 0.09);
+  backdrop-filter: blur(18px);
+  animation: leaibot-rise 0.38s var(--leaibot-ease) forwards;
+}
+.leaibot-chat-toolbar { height: 64px; flex: 0 0 64px; display: flex; align-items: center; justify-content: space-between; padding: 0 20px; border-bottom: 1px solid var(--leaibot-border); }
+.leaibot-chat-toolbar > div { display: flex; flex-direction: column; gap: 1px; }
+.leaibot-chat-toolbar strong { color: var(--leaibot-text); font-size: 16px; }
+.leaibot-chat-toolbar span { color: var(--leaibot-text-muted); font-size: 11.5px; }
+.leaibot-chat-toolbar button { height: 34px; padding: 0 13px; border: 1px solid var(--leaibot-border); border-radius: 8px; background: #fff; color: var(--leaibot-aubergine); cursor: pointer; }
+.leaibot-chat-toolbar button:hover { background: var(--leaibot-lavender-hover); }
+.leaibot-chat-thread { flex: 1 1 auto; min-height: 0; display: flex; flex-direction: column; gap: 16px; padding: 22px; overflow-y: auto; scrollbar-width: thin; scrollbar-color: #d8ccdc transparent; }
+.leaibot-message { display: flex; flex-direction: column; gap: 5px; max-width: 78%; animation: leaibot-rise 0.3s var(--leaibot-ease) forwards; }
+.leaibot-message[data-role="user"] { align-self: flex-end; align-items: flex-end; }
+.leaibot-message[data-role="assistant"] { align-self: flex-start; }
+.leaibot-message-author { color: var(--leaibot-text-muted); font-size: 11.5px; }
+.leaibot-message p { margin: 0; padding: 12px 15px; border-radius: 15px; color: var(--leaibot-text-soft); background: var(--leaibot-lavender-weak); font-size: 14px; line-height: 1.7; white-space: pre-line; }
+.leaibot-message[data-role="user"] p { color: #fff; background: var(--leaibot-gradient); border-bottom-right-radius: 5px; }
+.leaibot-message[data-role="assistant"] p { border-bottom-left-radius: 5px; }
+.leaibot-thinking { align-self: flex-start; display: flex; align-items: center; gap: 5px; height: 42px; padding: 0 16px; border-radius: 15px 15px 15px 5px; background: var(--leaibot-lavender-weak); }
+.leaibot-thinking span { width: 6px; height: 6px; border-radius: 50%; background: var(--leaibot-aubergine); animation: leaibot-thinking 0.9s ease-in-out infinite alternate; }
+.leaibot-thinking span:nth-child(2) { animation-delay: 0.15s; }
+.leaibot-thinking span:nth-child(3) { animation-delay: 0.3s; }
+@keyframes leaibot-thinking { from { opacity: 0.3; transform: translateY(2px); } to { opacity: 1; transform: translateY(-2px); } }
+.leaibot-suggestions { display: flex; flex-wrap: wrap; gap: 8px; }
+.leaibot-suggestions button { min-height: 32px; padding: 5px 11px; border: 1px solid var(--leaibot-border); border-radius: 999px; background: #fff; color: var(--leaibot-aubergine); font-size: 12px; cursor: pointer; }
+.leaibot-suggestions button:hover { background: var(--leaibot-lavender-hover); }
+.leaibot-chat-composer { flex: 0 0 auto; padding: 0 18px 18px; }
+.leaibot-chat-composer .leaibot-dock { width: 100%; max-width: none; margin: 0; }
+.leaibot-chat-composer .leaibot-composer { box-shadow: 0 9px 28px rgba(75, 38, 83, 0.09); }
 
 .leaibot-legal { position: fixed; bottom: 18px; left: 50%; z-index: 3; transform: translateX(-50%); margin: 0; color: #c0b1c4; font-size: 12px; font-weight: 400; line-height: 18px; text-align: center; white-space: nowrap; pointer-events: none; }
 
@@ -496,13 +544,15 @@
   .leaibot-gallery { padding-top: 20px; padding-bottom: 22px; }
   .leaibot-card-visual { height: 128px; }
   .leaibot-card-meta { gap: 5px; padding: 11px 14px 12px; }
+  .leaibot-chat-shell { height: calc(100vh - 102px); min-height: 500px; margin-top: 10px; }
 }
 
 @media (max-width: 519px) {
   .leaibot-clone { overflow-x: auto; overflow-y: hidden; }
   .leaibot-stage { align-items: flex-start; }
   .leaibot-dock,
-  .leaibot-gallery { margin-left: 0; margin-right: 0; }
+  .leaibot-gallery,
+  .leaibot-chat-shell { margin-left: 0; margin-right: 0; }
 }
 
 /* Preserve the source template's fixed-width PC canvas on narrow screens. */

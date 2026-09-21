@@ -1,0 +1,1562 @@
+{
+  "assets": [
+    {
+      "id": "979f54fdc90d59b0",
+      "kind": "stylesheet",
+      "name": "notification-toast-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103476,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/notification-toast-v1.css?p0v=22951c7db61a0d50"
+    },
+    {
+      "id": "acf3edabaeee5ee5",
+      "kind": "script",
+      "name": "product-detail-navigation-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103477,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/product-detail-navigation-v1.js?p0v=34b3bcacde0c016f"
+    },
+    {
+      "id": "d40206c840f800e9",
+      "kind": "script",
+      "name": "notification-toast-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103478,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/notification-toast-v1.js?p0v=20c3cef677d1a7ca"
+    },
+    {
+      "id": "95dbcabe6e6727c6",
+      "kind": "script",
+      "name": "detail-operating-system-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103480,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/detail-operating-system-v1.js?p0v=6bb29bcc43fff595"
+    },
+    {
+      "id": "33436818a26232e6",
+      "kind": "script",
+      "name": "comparison-display-actions-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103479,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/comparison-display-actions-v1.js?p0v=0eef0e297ad3b765"
+    },
+    {
+      "id": "061c6b4a66a01c32",
+      "kind": "script",
+      "name": "service-products-query-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103481,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/service-products-query-v1.js?p0v=d0b6fc0181529458"
+    },
+    {
+      "id": "92c3803d6a8ed5e3",
+      "kind": "script",
+      "name": "education-member-state-sync-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103482,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/education-member-state-sync-v1.js?p0v=642a431b6eaf7aa2"
+    },
+    {
+      "id": "68307c48dd236948",
+      "kind": "script",
+      "name": "education-offer-query-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103483,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/education-offer-query-v1.js?p0v=b21e263c0b382cd8"
+    },
+    {
+      "id": "7be2247a98a96f17",
+      "kind": "script",
+      "name": "generation-control-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103484,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/generation-control-v1.js?p0v=ecf34ea3f3d35b9e"
+    },
+    {
+      "id": "ff2ceef070bf7bce",
+      "kind": "script",
+      "name": "channel-customer-service-v126.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103486,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/channel-customer-service-v126.js?p0v=6663a15bf799c69e"
+    },
+    {
+      "id": "467a7b988b7b5447",
+      "kind": "image",
+      "name": "logo-full-red.png",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/logos/logo-full-red.png"
+    },
+    {
+      "id": "0d41b466e986275e",
+      "kind": "image",
+      "name": "lxfd-gallery-1-1.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/img/lxfd-gallery-1-1.jpg"
+    },
+    {
+      "id": "7987ae0af4f40cc2",
+      "kind": "image",
+      "name": "lxfd-gallery-1-2.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/img/lxfd-gallery-1-2.jpg"
+    },
+    {
+      "id": "25bd4db9d4ab046a",
+      "kind": "stylesheet",
+      "name": "inline-04.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103499,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-04.css?p0v=2c340568e534e786"
+    },
+    {
+      "id": "46d6ed8cb9eecf3d",
+      "kind": "image",
+      "name": "lxfd-gallery-1-3.jpg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/img/lxfd-gallery-1-3.jpg"
+    },
+    {
+      "id": "d7f0c8948911b444",
+      "kind": "stylesheet",
+      "name": "inline-05.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103500,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-05.css?p0v=11367ccb4bfae459"
+    },
+    {
+      "id": "098b14f6c4bc55b9",
+      "kind": "stylesheet",
+      "name": "inline-935e2224afac.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103501,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/shared/inline-935e2224afac.css?p0v=44194d31b465439c"
+    },
+    {
+      "id": "13b196785f1b5409",
+      "kind": "stylesheet",
+      "name": "split-frame-composer-sync.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103502,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/split-frame-composer-sync.css?p0v=3da557c3cd6b065b"
+    },
+    {
+      "id": "0f0f65b1837208ec",
+      "kind": "stylesheet",
+      "name": "right-generation-aurora.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103503,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/right-generation-aurora.css?p0v=9fb0189512e6318b"
+    },
+    {
+      "id": "8051a9328e7ae84b",
+      "kind": "stylesheet",
+      "name": "auth-dialog.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103504,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/auth-dialog.css?p0v=8dc00cd03756d00a"
+    },
+    {
+      "id": "79bfa9050d3f68cd",
+      "kind": "stylesheet",
+      "name": "hover-ai-disabled.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103505,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/hover-ai-disabled.css?p0v=316a5c45d5e7cb4a"
+    },
+    {
+      "id": "c5744e16d610ba2a",
+      "kind": "stylesheet",
+      "name": "inline-07.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103506,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-07.css?p0v=f813cb9eab24329a"
+    },
+    {
+      "id": "6329e6d2638d5b32",
+      "kind": "stylesheet",
+      "name": "modal-overlay-unified.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103507,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/modal-overlay-unified.css?p0v=3500c9504569dc0a"
+    },
+    {
+      "id": "d8da5f24002fb867",
+      "kind": "stylesheet",
+      "name": "workplace-auth-modal.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103508,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/workplace-auth-modal.css?p0v=9e414dbce04ff1ef"
+    },
+    {
+      "id": "f71fa345cdc1882b",
+      "kind": "stylesheet",
+      "name": "enterprise-member-auth-modal.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103509,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/enterprise-member-auth-modal.css?p0v=663d6f86d0dd12a4"
+    },
+    {
+      "id": "863f0d185435b14e",
+      "kind": "script",
+      "name": "p0-home-core-2.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103512,
+          "property": "href"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104287,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-2.js?p0v=be6bfcf225cef2bb"
+    },
+    {
+      "id": "c2dee75c0fc0b979",
+      "kind": "stylesheet",
+      "name": "composer-smart-actions-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103517,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/composer-smart-actions-v1.css?p0v=07bb602f84b7f2d4"
+    },
+    {
+      "id": "b3ee62dc643e5975",
+      "kind": "stylesheet",
+      "name": "assistant-scrollbar-hidden-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103518,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/assistant-scrollbar-hidden-v1.css?p0v=f523ecbede3f74a8"
+    },
+    {
+      "id": "a3315a2f1fc3d6b5",
+      "kind": "stylesheet",
+      "name": "empty-hover-backplate-collapse-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103519,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/empty-hover-backplate-collapse-v1.css?p0v=ecb2fd0eb78d7559"
+    },
+    {
+      "id": "9cc96286b90cbff8",
+      "kind": "stylesheet",
+      "name": "enterprise-auth-original-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103532,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/enterprise-auth-original-v1.css?p0v=ac59f6fee58df009"
+    },
+    {
+      "id": "fef432a5d8f2e3e2",
+      "kind": "script",
+      "name": "gaming-query-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103533,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/gaming-query-v1.js?p0v=9b9dcc5b93b2fdcd"
+    },
+    {
+      "id": "262d2cf4da78796f",
+      "kind": "stylesheet",
+      "name": "manufacturing-solution-rows-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103534,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/manufacturing-solution-rows-v1.css?p0v=9b83be332b5a2421"
+    },
+    {
+      "id": "1ec7fc179376e677",
+      "kind": "stylesheet",
+      "name": "recruitment-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103536,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/recruitment-v1.css?p0v=d82be148e6f69b90"
+    },
+    {
+      "id": "c82c32d9fcddc0c0",
+      "kind": "script",
+      "name": "manufacturing-solution-rows-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103535,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/manufacturing-solution-rows-v1.js?p0v=fbd06926b932b879"
+    },
+    {
+      "id": "44a15b6b6af08ffd",
+      "kind": "script",
+      "name": "query-result-runtime-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103537,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/query-result-runtime-v1.js?p0v=9c24218ee1c973f5"
+    },
+    {
+      "id": "b74a73c681b4bda8",
+      "kind": "stylesheet",
+      "name": "education-auth-original-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103539,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/education-auth-original-v1.css?p0v=984066cfc89d1b86"
+    },
+    {
+      "id": "8207bb19ae26bee1",
+      "kind": "stylesheet",
+      "name": "education-member-products-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103540,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/components/education-member-products-v1.css?p0v=127a88523cb7399a"
+    },
+    {
+      "id": "75e4896c37eda060",
+      "kind": "script",
+      "name": "recruitment-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103538,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/recruitment-v1.js?p0v=177ee9fe5b2d4e25"
+    },
+    {
+      "id": "6a856e399509a45e",
+      "kind": "stylesheet",
+      "name": "recommendation-card-arrow-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103541,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/recommendation-card-arrow-v1.css?p0v=739e8b86831d0495"
+    },
+    {
+      "id": "0550c6ad170472ac",
+      "kind": "stylesheet",
+      "name": "tabbar-compression-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103542,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/tabbar-compression-v1.css?p0v=b56daa295cbafa08"
+    },
+    {
+      "id": "4dde4779d38dbaaa",
+      "kind": "stylesheet",
+      "name": "conversation-location-navigation-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103543,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/conversation-location-navigation-v1.css?p0v=292f692b4a3cc76d"
+    },
+    {
+      "id": "8ee969dab662fe26",
+      "kind": "stylesheet",
+      "name": "recommendation-followups-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103544,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/recommendation-followups-v1.css?p0v=e673a29bd67fd1ec"
+    },
+    {
+      "id": "40d58eae18e59df5",
+      "kind": "script",
+      "name": "recommendation-followups-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 103545,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/recommendation-followups-v1.js?p0v=d15577c643e30a5e"
+    },
+    {
+      "id": "1f79f1dcb1078407",
+      "kind": "image",
+      "name": "mall-orders.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/mall-orders.svg"
+    },
+    {
+      "id": "84d0e72283d43afa",
+      "kind": "image",
+      "name": "mall-account.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/mall-account.svg"
+    },
+    {
+      "id": "33f0170cc2afce63",
+      "kind": "image",
+      "name": "full-create.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/full-create.svg"
+    },
+    {
+      "id": "1e0330a73c8c4779",
+      "kind": "image",
+      "name": "sidebar-history.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/sidebar-history.svg"
+    },
+    {
+      "id": "bc9caa918100432b",
+      "kind": "image",
+      "name": "global-switch.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/global-switch.svg"
+    },
+    {
+      "id": "06358f0583c4a449",
+      "kind": "image",
+      "name": "sidebar-toggle.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/sidebar-toggle.svg"
+    },
+    {
+      "id": "19634b83d6240c1f",
+      "kind": "image",
+      "name": "global-next.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/global-next.svg"
+    },
+    {
+      "id": "46fa8841d9f9892d",
+      "kind": "image",
+      "name": "shortcut-education.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-education.svg"
+    },
+    {
+      "id": "1fcce851881375fb",
+      "kind": "image",
+      "name": "shortcut-support.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-support.svg"
+    },
+    {
+      "id": "c16a3f184bb3f424",
+      "kind": "image",
+      "name": "global-expand.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/global-expand.svg"
+    },
+    {
+      "id": "6c632a160dec5bbf",
+      "kind": "image",
+      "name": "shortcut-tradein.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-tradein.svg"
+    },
+    {
+      "id": "717fe1adec3bd17b",
+      "kind": "image",
+      "name": "shortcut-rewards.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-rewards.svg"
+    },
+    {
+      "id": "8f7b244f46c9d20c",
+      "kind": "image",
+      "name": "shortcut-trial.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-trial.svg"
+    },
+    {
+      "id": "f8627a9ec3bf2eb1",
+      "kind": "image",
+      "name": "shortcut-customization.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-customization.svg"
+    },
+    {
+      "id": "2925f22aa8900a3e",
+      "kind": "image",
+      "name": "shortcut-membership.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-membership.svg"
+    },
+    {
+      "id": "0bd3da2aec065a11",
+      "kind": "image",
+      "name": "shortcut-referrals.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-referrals.svg"
+    },
+    {
+      "id": "4879b8fd5ada76a3",
+      "kind": "image",
+      "name": "shortcut-delivery.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/shortcut-delivery.svg"
+    },
+    {
+      "id": "91d1e5997ee9549e",
+      "kind": "image",
+      "name": "composer-reasoning.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/composer-reasoning.svg"
+    },
+    {
+      "id": "7c686ffa60244938",
+      "kind": "image",
+      "name": "composer-image.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/composer-image.svg"
+    },
+    {
+      "id": "2580f16f509065f6",
+      "kind": "image",
+      "name": "composer-send.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/composer-send.svg"
+    },
+    {
+      "id": "6ac82242a69630aa",
+      "kind": "image",
+      "name": "global-collapse.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/global-collapse.svg"
+    },
+    {
+      "id": "f2242d5b96294e6a",
+      "kind": "image",
+      "name": "arrow-left.svg",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "img"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/icons/arrow-left.svg"
+    },
+    {
+      "id": "6d3f9833f384a796",
+      "kind": "stylesheet",
+      "name": "inline-10.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104072,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-10.css?p0v=c951c495deb4d31d"
+    },
+    {
+      "id": "cb28f11331c55331",
+      "kind": "stylesheet",
+      "name": "inline-12.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104280,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-12.css?p0v=ee9e7b7bd8907ece"
+    },
+    {
+      "id": "b59950ded50d6466",
+      "kind": "stylesheet",
+      "name": "product-specs-grouped-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104281,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/product-specs-grouped-v1.css?p0v=1026a542c206036b"
+    },
+    {
+      "id": "adc4a3d7fcfbb3a6",
+      "kind": "script",
+      "name": "p0-home-core-1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104276,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-1.js?p0v=68e249410c86c22f"
+    },
+    {
+      "id": "1272c410b0761561",
+      "kind": "stylesheet",
+      "name": "arrival-notice-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104283,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/arrival-notice-v1.css?p0v=3b09e9a2b19c58ae"
+    },
+    {
+      "id": "e341e987fff94ecb",
+      "kind": "stylesheet",
+      "name": "member-coupon-center-v1.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104284,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/member-coupon-center-v1.css?p0v=9f11b28b9d95e66d"
+    },
+    {
+      "id": "b9ff868728c7042d",
+      "kind": "script",
+      "name": "product-specs-grouped-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104282,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/product-specs-grouped-v1.js?p0v=e4edbdcfb53c4d7c"
+    },
+    {
+      "id": "125df90a11e2d212",
+      "kind": "stylesheet",
+      "name": "inline-13.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104357,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-13.css?p0v=e27a2751c7fd0e54"
+    },
+    {
+      "id": "e762a48603513af7",
+      "kind": "script",
+      "name": "member-coupon-center-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104286,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/member-coupon-center-v1.js?p0v=0940425517a453a5"
+    },
+    {
+      "id": "b6cc46fde86d82e2",
+      "kind": "script",
+      "name": "enterprise-auth-original-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104285,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/enterprise-auth-original-v1.js?p0v=6fa7a08121402d64"
+    },
+    {
+      "id": "ecaffa54b63609d8",
+      "kind": "script",
+      "name": "app-agent.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104432,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/app-agent.js?p0v=2533e1dec0d991d4"
+    },
+    {
+      "id": "57dc8d72df7cd4f5",
+      "kind": "script",
+      "name": "app-lxfd.home-conversation-v122.placeholder-v147.controls-v150.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104358,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/app-lxfd.home-conversation-v122.placeholder-v147.controls-v150.js?p0v=cfd257a885af82b6"
+    },
+    {
+      "id": "073430da98ecfa54",
+      "kind": "stylesheet",
+      "name": "inline-17.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104437,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-17.css?p0v=b22ed30cc1628e0d"
+    },
+    {
+      "id": "81eaa09b0fe93379",
+      "kind": "script",
+      "name": "inline-16.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104436,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/pages/home/inline-16.js?p0v=1b0475066f47365d"
+    },
+    {
+      "id": "f03f0714c197293f",
+      "kind": "script",
+      "name": "inline-14.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104434,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/pages/home/inline-14.js?p0v=b999d5bad4a1ed8a"
+    },
+    {
+      "id": "385d78efbd8dfe31",
+      "kind": "script",
+      "name": "inline-15.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104435,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/pages/home/inline-15.js?p0v=638df9a970495484"
+    },
+    {
+      "id": "b25cb4cdcc744c9b",
+      "kind": "stylesheet",
+      "name": "inline-18.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104438,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-18.css?p0v=fe5273230845c48f"
+    },
+    {
+      "id": "3d4bb5238fd364d5",
+      "kind": "stylesheet",
+      "name": "inline-19.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104447,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-19.css?p0v=7a8bd9640ebfbc33"
+    },
+    {
+      "id": "87fcbb5bc00461a5",
+      "kind": "stylesheet",
+      "name": "solution-result.css",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "link"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104448,
+          "property": "href"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/css/core/solution-result.css?p0v=43a1a617617bc647"
+    },
+    {
+      "id": "21b8477636e99842",
+      "kind": "script",
+      "name": "p0-home-core-3.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104449,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-3.js?p0v=8491f3cdf2b31a08"
+    },
+    {
+      "id": "6b1f2c0dfe3613a3",
+      "kind": "script",
+      "name": "p0-home-core-4.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104451,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-4.js?p0v=8cafcb77ce9674dc"
+    },
+    {
+      "id": "38996a17b105a383",
+      "kind": "script",
+      "name": "followup-chevron-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104460,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/followup-chevron-v1.js?p0v=845b3e54e80e4b4a"
+    },
+    {
+      "id": "70262349f5ed7892",
+      "kind": "script",
+      "name": "answer-actions-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104465,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/answer-actions-v1.js?p0v=cc3f7487fbe1651b"
+    },
+    {
+      "id": "56af4e4798f92e5c",
+      "kind": "script",
+      "name": "review-media-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104467,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/review-media-v1.js?p0v=af95f5cdffda1d1e"
+    },
+    {
+      "id": "39ca87fef87c079c",
+      "kind": "script",
+      "name": "order-login-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104469,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/order-login-v1.js?p0v=ac02d9bf296f0fc2"
+    },
+    {
+      "id": "6f869f4f256530a9",
+      "kind": "script",
+      "name": "thinking-auto-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104470,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/thinking-auto-v1.js?p0v=8ee2a897a3409390"
+    },
+    {
+      "id": "34f7e89ce6f39647",
+      "kind": "script",
+      "name": "reco-match-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104472,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/reco-match-v1.js?p0v=9a56eae55aad4bea"
+    },
+    {
+      "id": "5acc17d19ae84bad",
+      "kind": "script",
+      "name": "tab-reorder-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104475,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/tab-reorder-v1.js?p0v=8dc5ecbb5c5b9ed3"
+    },
+    {
+      "id": "9c18a967c2804ede",
+      "kind": "script",
+      "name": "prompt-menu-height-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104477,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/prompt-menu-height-v1.js?p0v=d360d6b8c137a088"
+    },
+    {
+      "id": "261d16fc43a63ba4",
+      "kind": "script",
+      "name": "education-auth-accessibility-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104478,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/education-auth-accessibility-v1.js?p0v=214a3172388c51d8"
+    },
+    {
+      "id": "6e1308ad7be3d1c2",
+      "kind": "script",
+      "name": "tabbar-compression-v1.js",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "script"
+        },
+        {
+          "kind": "attribute",
+          "nodeId": 104479,
+          "property": "src"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/assets/frontend/js/core/tabbar-compression-v1.js?p0v=3d614472748a0996"
+    },
+    {
+      "id": "8c53a330f1d9ee6b",
+      "kind": "other",
+      "name": "member",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/api/leai/member"
+    },
+    {
+      "id": "75a0e5fef4c876ae",
+      "kind": "other",
+      "name": "faq",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/api/leai2/faq"
+    },
+    {
+      "id": "4c85d92c45e58fcd",
+      "kind": "other",
+      "name": "me",
+      "sources": [
+        {
+          "kind": "resource",
+          "property": "fetch"
+        }
+      ],
+      "url": "https://p0.leaibot.cn/api/auth/me"
+    }
+  ],
+  "id": "bed704ba-3107-4adb-8531-7c68cb278ec2",
+  "inlineSvgs": [],
+  "pageUrl": "https://p0.leaibot.cn/",
+  "summary": {
+    "byKind": {
+      "font": 0,
+      "image": 26,
+      "other": 3,
+      "script": 36,
+      "stylesheet": 34,
+      "video": 0
+    },
+    "inlineSvgCount": 0,
+    "totalCount": 99
+  }
+}

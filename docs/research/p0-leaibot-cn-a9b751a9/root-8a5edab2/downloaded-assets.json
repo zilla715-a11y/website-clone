@@ -1,0 +1,542 @@
+[
+  {
+    "contentType": "text/css",
+    "id": "979f54fdc90d59b0",
+    "kind": "stylesheet",
+    "name": "notification-toast-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/979f54fdc90d59b0.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/notification-toast-v1.css?p0v=22951c7db61a0d50",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\notification-toast-v1.css"
+  },
+  {
+    "contentType": "image/webp",
+    "id": "467a7b988b7b5447",
+    "kind": "image",
+    "name": "logo-full-red.png",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/467a7b988b7b5447.png",
+    "url": "https://p0.leaibot.cn/assets/logos/logo-full-red.png",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\logo-full-red.png"
+  },
+  {
+    "contentType": "image/webp",
+    "id": "0d41b466e986275e",
+    "kind": "image",
+    "name": "lxfd-gallery-1-1.jpg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/0d41b466e986275e.jpg",
+    "url": "https://p0.leaibot.cn/assets/img/lxfd-gallery-1-1.jpg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\lxfd-gallery-1-1.jpg"
+  },
+  {
+    "contentType": "image/webp",
+    "id": "7987ae0af4f40cc2",
+    "kind": "image",
+    "name": "lxfd-gallery-1-2.jpg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/7987ae0af4f40cc2.jpg",
+    "url": "https://p0.leaibot.cn/assets/img/lxfd-gallery-1-2.jpg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\lxfd-gallery-1-2.jpg"
+  },
+  {
+    "contentType": "text/css",
+    "id": "25bd4db9d4ab046a",
+    "kind": "stylesheet",
+    "name": "inline-04.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/25bd4db9d4ab046a.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-04.css?p0v=2c340568e534e786",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-04.css"
+  },
+  {
+    "contentType": "image/webp",
+    "id": "46d6ed8cb9eecf3d",
+    "kind": "image",
+    "name": "lxfd-gallery-1-3.jpg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/46d6ed8cb9eecf3d.jpg",
+    "url": "https://p0.leaibot.cn/assets/img/lxfd-gallery-1-3.jpg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\lxfd-gallery-1-3.jpg"
+  },
+  {
+    "contentType": "text/css",
+    "id": "d7f0c8948911b444",
+    "kind": "stylesheet",
+    "name": "inline-05.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/d7f0c8948911b444.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-05.css?p0v=11367ccb4bfae459",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-05.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "098b14f6c4bc55b9",
+    "kind": "stylesheet",
+    "name": "inline-935e2224afac.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/098b14f6c4bc55b9.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/shared/inline-935e2224afac.css?p0v=44194d31b465439c",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-935e2224afac.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "13b196785f1b5409",
+    "kind": "stylesheet",
+    "name": "split-frame-composer-sync.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/13b196785f1b5409.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/split-frame-composer-sync.css?p0v=3da557c3cd6b065b",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\split-frame-composer-sync.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "0f0f65b1837208ec",
+    "kind": "stylesheet",
+    "name": "right-generation-aurora.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/0f0f65b1837208ec.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/right-generation-aurora.css?p0v=9fb0189512e6318b",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\right-generation-aurora.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "8051a9328e7ae84b",
+    "kind": "stylesheet",
+    "name": "auth-dialog.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/8051a9328e7ae84b.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/auth-dialog.css?p0v=8dc00cd03756d00a",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\auth-dialog.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "79bfa9050d3f68cd",
+    "kind": "stylesheet",
+    "name": "hover-ai-disabled.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/79bfa9050d3f68cd.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/hover-ai-disabled.css?p0v=316a5c45d5e7cb4a",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\hover-ai-disabled.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "c5744e16d610ba2a",
+    "kind": "stylesheet",
+    "name": "inline-07.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/c5744e16d610ba2a.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-07.css?p0v=f813cb9eab24329a",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-07.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "6329e6d2638d5b32",
+    "kind": "stylesheet",
+    "name": "modal-overlay-unified.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/6329e6d2638d5b32.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/modal-overlay-unified.css?p0v=3500c9504569dc0a",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\modal-overlay-unified.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "d8da5f24002fb867",
+    "kind": "stylesheet",
+    "name": "workplace-auth-modal.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/d8da5f24002fb867.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/workplace-auth-modal.css?p0v=9e414dbce04ff1ef",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\workplace-auth-modal.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "f71fa345cdc1882b",
+    "kind": "stylesheet",
+    "name": "enterprise-member-auth-modal.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/f71fa345cdc1882b.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/enterprise-member-auth-modal.css?p0v=663d6f86d0dd12a4",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\enterprise-member-auth-modal.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "c2dee75c0fc0b979",
+    "kind": "stylesheet",
+    "name": "composer-smart-actions-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/c2dee75c0fc0b979.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/composer-smart-actions-v1.css?p0v=07bb602f84b7f2d4",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\composer-smart-actions-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "b3ee62dc643e5975",
+    "kind": "stylesheet",
+    "name": "assistant-scrollbar-hidden-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/b3ee62dc643e5975.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/assistant-scrollbar-hidden-v1.css?p0v=f523ecbede3f74a8",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\assistant-scrollbar-hidden-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "a3315a2f1fc3d6b5",
+    "kind": "stylesheet",
+    "name": "empty-hover-backplate-collapse-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/a3315a2f1fc3d6b5.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/empty-hover-backplate-collapse-v1.css?p0v=ecb2fd0eb78d7559",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\empty-hover-backplate-collapse-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "9cc96286b90cbff8",
+    "kind": "stylesheet",
+    "name": "enterprise-auth-original-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/9cc96286b90cbff8.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/enterprise-auth-original-v1.css?p0v=ac59f6fee58df009",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\enterprise-auth-original-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "262d2cf4da78796f",
+    "kind": "stylesheet",
+    "name": "manufacturing-solution-rows-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/262d2cf4da78796f.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/manufacturing-solution-rows-v1.css?p0v=9b83be332b5a2421",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\manufacturing-solution-rows-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "1ec7fc179376e677",
+    "kind": "stylesheet",
+    "name": "recruitment-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/1ec7fc179376e677.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/recruitment-v1.css?p0v=d82be148e6f69b90",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\recruitment-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "b74a73c681b4bda8",
+    "kind": "stylesheet",
+    "name": "education-auth-original-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/b74a73c681b4bda8.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/education-auth-original-v1.css?p0v=984066cfc89d1b86",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\education-auth-original-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "8207bb19ae26bee1",
+    "kind": "stylesheet",
+    "name": "education-member-products-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/8207bb19ae26bee1.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/components/education-member-products-v1.css?p0v=127a88523cb7399a",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\education-member-products-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "6a856e399509a45e",
+    "kind": "stylesheet",
+    "name": "recommendation-card-arrow-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/6a856e399509a45e.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/recommendation-card-arrow-v1.css?p0v=739e8b86831d0495",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\recommendation-card-arrow-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "0550c6ad170472ac",
+    "kind": "stylesheet",
+    "name": "tabbar-compression-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/0550c6ad170472ac.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/tabbar-compression-v1.css?p0v=b56daa295cbafa08",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\tabbar-compression-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "4dde4779d38dbaaa",
+    "kind": "stylesheet",
+    "name": "conversation-location-navigation-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/4dde4779d38dbaaa.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/conversation-location-navigation-v1.css?p0v=292f692b4a3cc76d",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\conversation-location-navigation-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "8ee969dab662fe26",
+    "kind": "stylesheet",
+    "name": "recommendation-followups-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/8ee969dab662fe26.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/recommendation-followups-v1.css?p0v=e673a29bd67fd1ec",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\recommendation-followups-v1.css"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "1f79f1dcb1078407",
+    "kind": "image",
+    "name": "mall-orders.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/1f79f1dcb1078407.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/mall-orders.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\mall-orders.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "84d0e72283d43afa",
+    "kind": "image",
+    "name": "mall-account.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/84d0e72283d43afa.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/mall-account.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\mall-account.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "33f0170cc2afce63",
+    "kind": "image",
+    "name": "full-create.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/33f0170cc2afce63.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/full-create.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\full-create.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "1e0330a73c8c4779",
+    "kind": "image",
+    "name": "sidebar-history.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/1e0330a73c8c4779.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/sidebar-history.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\sidebar-history.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "bc9caa918100432b",
+    "kind": "image",
+    "name": "global-switch.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/bc9caa918100432b.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/global-switch.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\global-switch.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "06358f0583c4a449",
+    "kind": "image",
+    "name": "sidebar-toggle.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/06358f0583c4a449.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/sidebar-toggle.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\sidebar-toggle.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "19634b83d6240c1f",
+    "kind": "image",
+    "name": "global-next.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/19634b83d6240c1f.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/global-next.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\global-next.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "46fa8841d9f9892d",
+    "kind": "image",
+    "name": "shortcut-education.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/46fa8841d9f9892d.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-education.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-education.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "1fcce851881375fb",
+    "kind": "image",
+    "name": "shortcut-support.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/1fcce851881375fb.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-support.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-support.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "c16a3f184bb3f424",
+    "kind": "image",
+    "name": "global-expand.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/c16a3f184bb3f424.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/global-expand.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\global-expand.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "6c632a160dec5bbf",
+    "kind": "image",
+    "name": "shortcut-tradein.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/6c632a160dec5bbf.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-tradein.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-tradein.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "717fe1adec3bd17b",
+    "kind": "image",
+    "name": "shortcut-rewards.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/717fe1adec3bd17b.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-rewards.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-rewards.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "8f7b244f46c9d20c",
+    "kind": "image",
+    "name": "shortcut-trial.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/8f7b244f46c9d20c.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-trial.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-trial.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "f8627a9ec3bf2eb1",
+    "kind": "image",
+    "name": "shortcut-customization.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/f8627a9ec3bf2eb1.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-customization.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-customization.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "2925f22aa8900a3e",
+    "kind": "image",
+    "name": "shortcut-membership.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/2925f22aa8900a3e.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-membership.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-membership.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "0bd3da2aec065a11",
+    "kind": "image",
+    "name": "shortcut-referrals.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/0bd3da2aec065a11.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-referrals.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-referrals.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "4879b8fd5ada76a3",
+    "kind": "image",
+    "name": "shortcut-delivery.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/4879b8fd5ada76a3.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/shortcut-delivery.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\shortcut-delivery.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "91d1e5997ee9549e",
+    "kind": "image",
+    "name": "composer-reasoning.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/91d1e5997ee9549e.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/composer-reasoning.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\composer-reasoning.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "7c686ffa60244938",
+    "kind": "image",
+    "name": "composer-image.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/7c686ffa60244938.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/composer-image.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\composer-image.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "2580f16f509065f6",
+    "kind": "image",
+    "name": "composer-send.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/2580f16f509065f6.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/composer-send.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\composer-send.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "6ac82242a69630aa",
+    "kind": "image",
+    "name": "global-collapse.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/6ac82242a69630aa.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/global-collapse.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\global-collapse.svg"
+  },
+  {
+    "contentType": "image/svg+xml",
+    "id": "f2242d5b96294e6a",
+    "kind": "image",
+    "name": "arrow-left.svg",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/f2242d5b96294e6a.svg",
+    "url": "https://p0.leaibot.cn/assets/icons/arrow-left.svg",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\public\\sites\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\arrow-left.svg"
+  },
+  {
+    "contentType": "text/css",
+    "id": "6d3f9833f384a796",
+    "kind": "stylesheet",
+    "name": "inline-10.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/6d3f9833f384a796.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-10.css?p0v=c951c495deb4d31d",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-10.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "cb28f11331c55331",
+    "kind": "stylesheet",
+    "name": "inline-12.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/cb28f11331c55331.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-12.css?p0v=ee9e7b7bd8907ece",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-12.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "b59950ded50d6466",
+    "kind": "stylesheet",
+    "name": "product-specs-grouped-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/b59950ded50d6466.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/product-specs-grouped-v1.css?p0v=1026a542c206036b",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\product-specs-grouped-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "1272c410b0761561",
+    "kind": "stylesheet",
+    "name": "arrival-notice-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/1272c410b0761561.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/arrival-notice-v1.css?p0v=3b09e9a2b19c58ae",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\arrival-notice-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "e341e987fff94ecb",
+    "kind": "stylesheet",
+    "name": "member-coupon-center-v1.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/e341e987fff94ecb.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/member-coupon-center-v1.css?p0v=9f11b28b9d95e66d",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\member-coupon-center-v1.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "125df90a11e2d212",
+    "kind": "stylesheet",
+    "name": "inline-13.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/125df90a11e2d212.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-13.css?p0v=e27a2751c7fd0e54",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-13.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "073430da98ecfa54",
+    "kind": "stylesheet",
+    "name": "inline-17.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/073430da98ecfa54.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-17.css?p0v=b22ed30cc1628e0d",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-17.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "b25cb4cdcc744c9b",
+    "kind": "stylesheet",
+    "name": "inline-18.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/b25cb4cdcc744c9b.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-18.css?p0v=fe5273230845c48f",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-18.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "3d4bb5238fd364d5",
+    "kind": "stylesheet",
+    "name": "inline-19.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/3d4bb5238fd364d5.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/pages/home/inline-19.css?p0v=7a8bd9640ebfbc33",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\inline-19.css"
+  },
+  {
+    "contentType": "text/css",
+    "id": "87fcbb5bc00461a5",
+    "kind": "stylesheet",
+    "name": "solution-result.css",
+    "path": "C:\\Users\\15714\\AppData\\Local\\Temp/browser-use/assets/43fdae11-df5b-46ca-929e-b309acce6e61/87fcbb5bc00461a5.css",
+    "url": "https://p0.leaibot.cn/assets/frontend/css/core/solution-result.css?p0v=43a1a617617bc647",
+    "projectPath": "C:\\Users\\15714\\OneDrive\\Desktop\\联想乐享\\website clone\\docs\\research\\p0-leaibot-cn-a9b751a9\\root-8a5edab2\\source-css\\solution-result.css"
+  }
+]

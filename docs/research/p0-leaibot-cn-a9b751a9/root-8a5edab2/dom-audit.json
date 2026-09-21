@@ -1,0 +1,2381 @@
+{
+  "head": {
+    "links": [
+      {
+        "href": "/assets/frontend/css/core/notification-toast-v1.css?p0v=22951c7db61a0d50",
+        "rel": "stylesheet"
+      },
+      {
+        "as": "image",
+        "href": "../logos/logo-full-red.png",
+        "rel": "preload"
+      },
+      {
+        "as": "image",
+        "href": "../img/lxfd-gallery-1-1.jpg",
+        "rel": "preload"
+      },
+      {
+        "as": "image",
+        "href": "../img/lxfd-gallery-1-2.jpg",
+        "rel": "preload"
+      },
+      {
+        "as": "image",
+        "href": "../img/lxfd-gallery-1-3.jpg",
+        "rel": "preload"
+      },
+      {
+        "data-template-source": "https://leaibot.cn/css/main.css?v=202607150210",
+        "href": "/assets/frontend/css/pages/home/inline-04.css?p0v=2c340568e534e786",
+        "rel": "stylesheet"
+      },
+      {
+        "data-template-source": "https://leaibot.cn/css/assistant-panel-ng-skin.css?v=202606222610",
+        "href": "/assets/frontend/css/pages/home/inline-05.css?p0v=11367ccb4bfae459",
+        "rel": "stylesheet"
+      },
+      {
+        "data-category-waiting-modal": "",
+        "href": "/assets/frontend/css/shared/inline-935e2224afac.css?p0v=44194d31b465439c",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/split-frame-composer-sync.css?p0v=3da557c3cd6b065b",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/right-generation-aurora.css?p0v=9fb0189512e6318b",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/auth-dialog.css?p0v=8dc00cd03756d00a",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/hover-ai-disabled.css?p0v=316a5c45d5e7cb4a",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/pages/home/inline-07.css?p0v=f813cb9eab24329a",
+        "id": "lx-history-modal-standard",
+        "rel": "stylesheet"
+      },
+      {
+        "data-lx-modal-overlay-unified": "",
+        "href": "/assets/frontend/css/core/modal-overlay-unified.css?p0v=3500c9504569dc0a",
+        "rel": "stylesheet"
+      },
+      {
+        "data-lx-workplace-auth-modal": "",
+        "href": "/assets/frontend/css/core/workplace-auth-modal.css?p0v=9e414dbce04ff1ef",
+        "rel": "stylesheet"
+      },
+      {
+        "data-lx-enterprise-member-auth-modal": "",
+        "href": "/assets/frontend/css/core/enterprise-member-auth-modal.css?p0v=663d6f86d0dd12a4",
+        "rel": "stylesheet"
+      },
+      {
+        "as": "script",
+        "href": "/assets/frontend/bundles/p0-home-core-2.js?p0v=be6bfcf225cef2bb",
+        "rel": "preload"
+      },
+      {
+        "as": "script",
+        "href": "/assets/frontend/js/components/member-service-clean-v45.js?p0v=f6422dbb0508c86d",
+        "media": "not all",
+        "rel": "preload"
+      },
+      {
+        "href": "/assets/frontend/css/core/composer-smart-actions-v1.css?p0v=07bb602f84b7f2d4",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/assistant-scrollbar-hidden-v1.css?p0v=f523ecbede3f74a8",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/empty-hover-backplate-collapse-v1.css?p0v=ecb2fd0eb78d7559",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/enterprise-auth-original-v1.css?p0v=ac59f6fee58df009",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/manufacturing-solution-rows-v1.css?p0v=9b83be332b5a2421",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/recruitment-v1.css?p0v=d82be148e6f69b90",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/education-auth-original-v1.css?p0v=984066cfc89d1b86",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/components/education-member-products-v1.css?p0v=127a88523cb7399a",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/recommendation-card-arrow-v1.css?p0v=739e8b86831d0495",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/tabbar-compression-v1.css?p0v=b56daa295cbafa08",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/conversation-location-navigation-v1.css?p0v=292f692b4a3cc76d",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/recommendation-followups-v1.css?p0v=e673a29bd67fd1ec",
+        "rel": "stylesheet"
+      },
+      {
+        "data-template-file-top-nav": "",
+        "href": "/assets/frontend/css/pages/home/inline-10.css?p0v=c951c495deb4d31d",
+        "rel": "stylesheet"
+      },
+      {
+        "data-document-insight-module": "",
+        "href": "/assets/frontend/css/pages/home/inline-12.css?p0v=ee9e7b7bd8907ece",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/product-specs-grouped-v1.css?p0v=1026a542c206036b",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/arrival-notice-v1.css?p0v=3b09e9a2b19c58ae",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/core/member-coupon-center-v1.css?p0v=9f11b28b9d95e66d",
+        "rel": "stylesheet"
+      },
+      {
+        "href": "/assets/frontend/css/pages/home/inline-13.css?p0v=e27a2751c7fd0e54",
+        "id": "lxfd-home-composer-control-sync",
+        "rel": "stylesheet"
+      },
+      {
+        "data-lexiang-user-bubble-token": "",
+        "href": "/assets/frontend/css/pages/home/inline-17.css?p0v=b22ed30cc1628e0d",
+        "rel": "stylesheet"
+      },
+      {
+        "data-lxfd-chat-dock-bottom-gap": "",
+        "href": "/assets/frontend/css/pages/home/inline-18.css?p0v=fe5273230845c48f",
+        "rel": "stylesheet"
+      },
+      {
+        "data-lxfd-new-chat-border-final": "",
+        "href": "/assets/frontend/css/pages/home/inline-19.css?p0v=7a8bd9640ebfbc33",
+        "rel": "stylesheet"
+      },
+      {
+        "data-solution-result-shared": "",
+        "href": "/assets/frontend/css/core/solution-result.css?p0v=43a1a617617bc647",
+        "rel": "stylesheet"
+      }
+    ],
+    "meta": [
+      {
+        "charset": "UTF-8"
+      },
+      {
+        "content": "width=device-width, initial-scale=1.0",
+        "name": "viewport"
+      },
+      {
+        "content": "p0-perf-20260904-v1",
+        "name": "p0-performance-version"
+      }
+    ],
+    "scripts": [
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/product-detail-navigation-v1.js?p0v=34b3bcacde0c016f",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/notification-toast-v1.js?p0v=20c3cef677d1a7ca",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/comparison-display-actions-v1.js?p0v=0eef0e297ad3b765",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/detail-operating-system-v1.js?p0v=6bb29bcc43fff595",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/service-products-query-v1.js?p0v=d0b6fc0181529458",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/education-member-state-sync-v1.js?p0v=642a431b6eaf7aa2",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/education-offer-query-v1.js?p0v=b21e263c0b382cd8",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/generation-control-v1.js?p0v=ecf34ea3f3d35b9e",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/channel-customer-service-v126.js?p0v=6663a15bf799c69e",
+        "type": ""
+      },
+      {
+        "inline": "\n(function () {\n  \"use strict\";\n\n  var routes = {\n    home: \"index.html\",\n    personal: \"shop-chat/index.html\",\n    business: \"b-chat/index.html\",\n    enterprise: \"biz-chat/index.html\",\n    brand: \"brand/index.html\"\n  };\n  var rootBase = new URL(\"../../\", document.baseURI).href;\n  var currentByPath = {\n    \"\": \"home\",\n    \"index.html\": \"home\",\n    \"shop-chat\": \"personal\",\n    \"shop-chat/index.html\": \"personal\",\n    \"b-chat\": \"business\",\n    \"b-chat/index.html\": \"business\",\n    \"biz-chat\": \"enter",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "\nwindow.__LX_TEMPLATE_PATH=\"/\";\n      window.__LX_TEMPLATE_PAGE=\"home\";\n      // POC 一次性历史清理：仅清空当前会话快照、共享历史列表与来源标记。\n      // 用独立迁移标记保证只执行一次，清理后新产生的历史仍可正常保存。\n      (function(){\n        var cleanupKey = \"lexiang.history.cleanup.20260819.v1\";\n        try {\n          if (localStorage.getItem(cleanupKey)) return;\n          [\n            \"lexiang.conversation.v1\",\n            \"lexiang.lxfd.convs.v1\",\n            \"lexiang.conversation.sourcePage.v1\"\n          ].forEach(function(key){ localStorage.remov",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "\n(function(){\n        var path = (window.__LX_TEMPLATE_PATH || location.pathname).replace(/\\/+$|^$/, \"/\");\n        if (path === \"/\") document.documentElement.classList.add(\"lx-root-lxfd-prepaint\");\n        if ([\"/shop-chat/\", \"/b-chat/\", \"/biz-chat/\", \"/brand/\"].indexOf(path) >= 0) {\n          document.documentElement.classList.add(\"lx-route-prepaint\");\n        }\n      })();\n\n",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "{\"memberStyle\":\"/assets/frontend/bundles/p0-home-member.css?p0v=2008b5628b2fe1f0\",\"features\":{\"detail\":{\"styles\":[{\"anchor\":\"p0-commerce-style-2\",\"url\":\"/assets/frontend/bundles/p0-home-commerce-style-2.css?p0v=1897ffc493bf0bb5\"},{\"anchor\":\"p0-commerce-style-3\",\"url\":\"/assets/frontend/bundles/p0-home-commerce-style-3.css?p0v=08dd25b63874065c\"},{\"anchor\":\"p0-commerce-style-4\",\"url\":\"/assets/frontend/bundles/p0-home-commerce-style-4.css?p0v=12c7b4eac601e3b4\"},{\"anchor\":\"p0-commerce-style-5\",\"url\":",
+        "src": "",
+        "type": "application/json"
+      },
+      {
+        "inline": "/* Explicit feature boundaries: detail / orders / checkout. No eager business downloads. */\n(() => {\n  'use strict';\n  if(window.__lxHomeFeatures?.version===2)return;\n  const config=JSON.parse(document.getElementById('p0-home-feature-config').textContent);\n  const resources=new Map(), features=new Map();let actionToken=0,replaying=false;\n  function load(tag,url,anchor,id){\n    const key=tag+':'+url;if(resources.has(key))return resources.get(key);\n    const task=new Promise((resolve,reject)=>{\n  ",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/gaming-query-v1.js?p0v=9b9dcc5b93b2fdcd",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/manufacturing-solution-rows-v1.js?p0v=fbd06926b932b879",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/query-result-runtime-v1.js?p0v=9c24218ee1c973f5",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/recruitment-v1.js?p0v=177ee9fe5b2d4e25",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/recommendation-followups-v1.js?p0v=d15577c643e30a5e",
+        "type": ""
+      },
+      {
+        "inline": "\nif (document.documentElement.classList.contains(\"lx-root-lxfd-prepaint\")) {\n        document.body.classList.add(\"assistant-fullscreen\", \"lx-auto-fs\");\n        document.body.dataset.state = \"chat\";\n      }\n\n",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "\n// 顶部频道导航仅保留 hover 预览，不响应鼠标、触控或键盘点击。\n      (function () {\n        function blockTopNavActivation(event) {\n          if (!event.isTrusted || !event.target.closest) return;\n          var item = event.target.closest(\n            \".main-nav > button[data-page], .lxfd-nav-sheet > a[data-page]\"\n          );\n          if (!item) return;\n          event.preventDefault();\n          event.stopImmediatePropagation();\n        }\n        document.addEventListener(\"click\", blockTopNavActivation, true);\n      ",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-1.js?p0v=68e249410c86c22f",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/product-specs-grouped-v1.js?p0v=e4edbdcfb53c4d7c",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/enterprise-auth-original-v1.js?p0v=6fa7a08121402d64",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/member-coupon-center-v1.js?p0v=0940425517a453a5",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-2.js?p0v=be6bfcf225cef2bb",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/app-lxfd.home-conversation-v122.placeholder-v147.controls-v150.js?p0v=cfd257a885af82b6",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/app-agent.js?p0v=2533e1dec0d991d4",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/pages/home/inline-14.js?p0v=b999d5bad4a1ed8a",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/pages/home/inline-15.js?p0v=638df9a970495484",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/pages/home/inline-16.js?p0v=1b0475066f47365d",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-3.js?p0v=8491f3cdf2b31a08",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/bundles/p0-home-core-4.js?p0v=8cafcb77ce9674dc",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/followup-chevron-v1.js?p0v=845b3e54e80e4b4a",
+        "type": ""
+      },
+      {
+        "inline": "(function () {\n  \"use strict\";\n\n  var SELECTOR = \".assistant-panel .assistant-bottom .composer textarea\";\n  var MIN_HEIGHT = 21;\n  var MAX_HEIGHT = 90;\n\n  function resize(textarea) {\n    if (!textarea || !textarea.matches(SELECTOR)) return;\n\n    textarea.style.setProperty(\"height\", MIN_HEIGHT + \"px\", \"important\");\n    var nextHeight = Math.max(MIN_HEIGHT, Math.min(textarea.scrollHeight, MAX_HEIGHT));\n    textarea.style.setProperty(\"height\", nextHeight + \"px\", \"important\");\n    textarea.style.set",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "(function () {\n  \"use strict\";\n  var pageScenes = Object.create(null), currentScene = null;\n  var shownScenes = new Set(), sceneCandidate = '', sceneSince = 0;\n  var suppressRevealUntil = 0, lastUserMessageSignature = '', wasSending = false;\n  var syncTimer = 0;\n  var actions = [\"推荐购买第2款商品\", \"我要对比1、3、4\"];\n  // 乐享输入框按钮展示全套：all pages share readiness, first reveal and motion.\n  window.__lxComposerButtonSuite = {\n    name: '乐享输入框按钮展示全套',\n    register: function(name, scene) { pageScenes[name] = scene",
+        "src": "",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/answer-actions-v1.js?p0v=cc3f7487fbe1651b",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/review-media-v1.js?p0v=af95f5cdffda1d1e",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/order-login-v1.js?p0v=ac02d9bf296f0fc2",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/thinking-auto-v1.js?p0v=8ee2a897a3409390",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/reco-match-v1.js?p0v=9a56eae55aad4bea",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/tab-reorder-v1.js?p0v=8dc5ecbb5c5b9ed3",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/prompt-menu-height-v1.js?p0v=d360d6b8c137a088",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/education-auth-accessibility-v1.js?p0v=214a3172388c51d8",
+        "type": ""
+      },
+      {
+        "inline": "",
+        "src": "https://p0.leaibot.cn/assets/frontend/js/core/tabbar-compression-v1.js?p0v=3d614472748a0996",
+        "type": ""
+      }
+    ],
+    "styles": [
+      ":is(html body #lxfdSend.lx-stop-generation,html body .assistant-panel button.send-btn.lx-stop-generation,html body .hero-send-btn.lx-stop-generation){position:relative!important;opacity:1!important;cursor:pointer!important;background:linear-gradient(90deg,#4d144a 11.9%,#b8252e 100%)!important;border-radius:50%!important}:is(html body #lxfdSend.lx-stop-generation,html body .assistant-panel button.send-btn.lx-stop-generation,html body .hero-send-btn.lx-stop-generation)>*{visibility:hidden!important}:is(html body #lxfdSend.lx-stop-generation,html body .assistant-panel button.send-btn.lx-stop-generation,html body .hero-send-btn.lx-stop-generation)::after{content:\"\"!important;display:block!important;visibility:visible!important;opacity:1!important;position:absolute;left:50%;top:50%;width:12px;height:12px;transform:translate(-50%,-50%);border-radius:2px;background:#FFFFFF}:is(html body #lxfdSend.lx-stop-generation,html body .assistant-panel button.send-btn.lx-stop-generation,html body .hero-send-btn.lx-stop-generation):focus-visible{outline:2px solid #4d144a;outline-offset:3px}:is(html body #lxfdSend.lx-stop-generation,html body .assistant-panel button.send-btn.lx-stop-generation,html body .hero-send-btn.lx-stop-generation):active{transform:scale(.96)}[data-lx-generation-stopped]{color:#979797;font-size:12px;line-height:1.6}:is(html body #lxfdSend.lx-send-ready,html body .assistant-panel button.send-btn.lx-send-ready,html body .hero-send-btn.lx-send-ready){opacity:1!important;cursor:pointer!important;background:linear-gradient(90deg,#4d144a 11.9%,#b8252e 100%)!important}:is(html body #lxfdSend.lx-send-ready,html body .assistant-panel button.send-btn.lx-send-ready,html body .hero-send-btn.lx-send-ready) .icon{opacity:1!important}:is(html body #lxfdSend.lx-send-ready,html body .assistant-panel button.send-btn.lx-send-ready,html body .hero-send-btn.lx-send-ready):focus-visible{outline:2px solid #4d144a;outline-offset:3px}:is(.ai-body,.lxfd-ai-body):has([data-lx-generation-stopped]) .lx-skill-trace-item{animation:none!important;background:none!important;-webkit-text-fill-color:#979797!important;color:#979797!important;font-weight:400!important}:is(.ai-body,.lxfd-ai-body):has([data-lx-generation-stopped]) .lx-skill-trace-item::after{animation:none!important;content:none!important}",
+      "\nhtml.lx-root-lxfd-prepaint body{overflow:hidden!important;background:#fcfaff}\n      html.lx-root-lxfd-prepaint body>.topbar,\n      html.lx-root-lxfd-prepaint body>.shell{display:none!important}\n      html.lx-root-lxfd-prepaint .lxfd{display:block!important}\n      html.lx-root-lxfd-prepaint .lxfd .anim-rise,\n      html.lx-root-lxfd-prepaint .lxfd .anim-fade{opacity:1!important;animation:none!important;transform:none!important}\n      html.lx-root-lxfd-prepaint .lxfd-actions .lxfd-ic:first-child{display:none!important}\n      html.lx-root-lxfd-prepaint #lxfdNavSheet [data-page=\"home\"]{display:none!important}\n      html.lx-root-lxfd-prepaint body:not(.lxfd-chatting) .lxfd-rail-fab{display:none!important}\n      html.lx-root-lxfd-prepaint body.lxfd-chatting .lxfd-ic-history{display:none!important}\n      html:not(.lx-root-lxfd-prepaint) .lxfd-ic-history{display:none!important}\n      html.lx-root-lxfd-prepaint body:not(.lxfd-rail-user-open) .lxfd-rail{transform:translate3d(calc(-100% - 26px),0,0)!important}\n      html.lx-root-lxfd-prepaint body.lxfd-rail-user-open .lxfd-rail.open{transform:translate3d(0,0,0)!important}\n      html.lx-root-lxfd-prepaint body:not(.lxfd-rail-user-open) .lxfd-rail-fab{opacity:1!important;visibility:visible!important;transform:none!important}\n      html.lx-root-lxfd-prepaint body.lxfd-chatting:not(.lxfd-rail-user-open) .lxfd-rail-new-fab{opacity:1!important;visibility:visible!important;transform:none!important}\n      html.lx-root-lxfd-prepaint body:not(.lxfd-chatting) .lxfd-rail-new-fab{opacity:0!important;visibility:hidden!important;transform:translateX(-10px)!important}\n      html.lx-root-lxfd-prepaint body.lxfd-rail-user-open .lxfd-rail-fab,\n      html.lx-root-lxfd-prepaint body.lxfd-rail-user-open .lxfd-rail-new-fab{opacity:0!important;visibility:hidden!important;transform:translateX(-10px)!important}\n      html.lx-root-lxfd-prepaint body:not(.lxfd-rail-user-open) .lxfd-stage{padding-left:40px!important}\n      html.lx-root-lxfd-prepaint body.lxfd-rail-user-open .lxfd-stage.shift{padding-left:316px!important}\n      html.lx-root-lxfd-prepaint .lxfd-chips{width:min(100%,700px);grid-template-columns:repeat(6,minmax(0,1fr));gap:10px 12px;margin:36px auto 0}\n      html.lx-root-lxfd-prepaint .lxfd-chip-q:nth-child(1){grid-column:1/span 2}\n      html.lx-root-lxfd-prepaint .lxfd-chip-q:nth-child(2){grid-column:3/span 2}\n      html.lx-root-lxfd-prepaint .lxfd-chip-q:nth-child(3){grid-column:5/span 2}\n      html.lx-root-lxfd-prepaint .lxfd-chip-q:nth-child(4){grid-column:2/span 2}\n      html.lx-root-lxfd-prepaint .lxfd-chip-q:nth-child(5){grid-column:4/span 2}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home{align-items:center!important;padding-top:clamp(78px,9vh,104px)!important;padding-bottom:18px!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-welcome{flex:0 0 auto!important;justify-content:flex-start!important;min-height:auto!important;padding-bottom:0!important;margin-top:clamp(82px,12vh,124px)!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-hello{font-size:clamp(30px,2.55vw,42px)!important;line-height:1.08!important;letter-spacing:0!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-chips{display:none!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting){--lxfd-gallery-shell:clamp(520px,calc(72.22vw - 194px),920px);}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-dock{position:relative!important;bottom:auto!important;width:var(--lxfd-gallery-shell)!important;max-width:var(--lxfd-gallery-shell)!important;margin:clamp(26px,3.4vh,42px) auto 0!important;padding-top:0!important;transform:none!important;z-index:3!important;box-sizing:border-box!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-composer{width:100%!important;margin:0 auto!important;padding:14px 14px 10px 14px!important;border-radius:18px!important;box-sizing:border-box!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-composer textarea{min-height:35px!important;font-size:16px!important;transform:translateY(3px)!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-comp-actions{display:flex!important;align-items:center!important;justify-content:flex-start!important;gap:8px!important;margin-top:8px!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-comp-left,html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-comp-right,html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-scope-actions{gap:8px!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-comp-left{flex:0 0 auto!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-comp-right{flex:0 0 auto!important;margin-left:auto!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-quick,html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-footnote{display:none!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-toggle,html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-scope-chip,html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-scope-more-btn{padding:0 10px!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-scope-more{display:inline-flex!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-scope-actions > .lxfd-scope-chip:nth-child(n+3){display:none!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-scope-menu .lxfd-scope-chip{display:flex!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-home-gallery{position:relative!important;z-index:1!important;width:var(--lxfd-gallery-shell)!important;max-width:var(--lxfd-gallery-shell)!important;box-sizing:border-box!important;margin:0 auto!important;padding:clamp(24px,3vh,34px) 0 clamp(24px,3.4vh,40px)!important;}\n      html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-legal-line{position:fixed!important;left:50%!important;right:auto!important;bottom:18px!important;transform:translateX(-50%)!important;width:auto!important;max-width:calc(100vw - 48px)!important;margin:0!important;padding:0!important;text-align:center!important;color:#f3f0f7!important;font-size:12px!important;line-height:1.5!important;font-weight:400!important;letter-spacing:0!important;pointer-events:none!important;}\n      @media (max-height:860px){html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home{padding-top:72px!important;}html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-welcome{margin-top:60px!important;}html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-dock{margin-top:22px!important;}html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home .lxfd-home-gallery{padding-top:20px!important;padding-bottom:22px!important;}}\n      @media (min-width:1920px){html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting){--lxfd-gallery-shell:clamp(520px,calc(68.75vw - 150px),1000px);}html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-scope-actions > .lxfd-scope-chip,html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-scope-actions > .lxfd-scope-chip:nth-child(n+3){display:inline-flex!important;}html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting) .lxfd-scope-more{display:none!important;}}\n      @media (min-width:1280px) and (max-width:1739px){html.lx-root-lxfd-prepaint .lxfd-stage.lxfd-gallery-home:not(.is-chatting){--lxfd-gallery-shell:clamp(520px,calc(68.75vw - 150px),920px);}}\n      html.lx-route-prepaint body{background:#fcfaff}\n      html.lx-route-prepaint body>.topbar,\n      html.lx-route-prepaint body>.shell,\n      html.lx-route-prepaint body>.lxfd{visibility:hidden!important}\n      .lx-route-loading{display:none}\n      html.lx-route-prepaint .lx-route-loading{display:flex;position:fixed;inset:0;z-index:9999;flex-direction:column;align-items:center;justify-content:center;gap:14px;background:#fcfaff}\n      .lx-route-loading .lx-rl-spin{width:34px;height:34px;border:3px solid #e2ddeb;border-top-color:#5b1452;border-radius:50%;animation:lxRlSpin .8s linear infinite}\n      .lx-route-loading .lx-rl-txt{color:#979797;font-size:14px;letter-spacing:.04em}\n      @keyframes lxRlSpin{to{transform:rotate(360deg)}}\n      .portal-home{display:none!important}\n      html.lx-root-lxfd-prepaint body>.topbar,\n      html.lx-root-lxfd-prepaint body>.shell,\n      body.lx-root-home:not(.lx-home-split)>.topbar,\n      body.lx-root-home:not(.lx-home-split)>.shell{display:none!important}\n      html.lx-root-lxfd-prepaint .lxfd,\n      body.lx-root-home:not(.lx-home-split)>.lxfd{display:block!important;visibility:visible!important}\n\n",
+      "html body .reco-page .lx-reco-poc-row .lx-reco-poc-buy,html body .reco-page .lx-reco-poc-row .lx-reco-poc-buy *{font-weight:500!important;}",
+      "\n/* Product detail canvas uses the same subtle gradient as product lists. */\nhtml body[data-page]:not(.assistant-fullscreen):not(.lx-auto-fs) main.shell > section.content[data-view=\"detail\"]:has(.product-detail) {\n  background-color:#f5f5f7!important;\n  background-image:linear-gradient(180deg,#fff 0,#fff 74px,#fefefe 96px,#fafafa 122px,#f7f7f8 164px,#f5f5f7 214px,#f5f5f7 100%)!important;\n  background-repeat:no-repeat!important;\n  background-size:100% 100%!important;\n  background-position:left top!important;\n}\n",
+      "\n/* Product hero card: the image and purchase information share an 8px shell. */\nhtml body[data-page] main.shell > section.content[data-view=\"detail\"] .product-detail > .detail-main {\n  border-radius:8px!important;\n}\n\n/* Keep the white child surfaces inside the shell's lower corners without clipping popovers. */\nhtml body[data-page] main.shell > section.content[data-view=\"detail\"] .product-detail > .detail-main > :is(.detail-gallery, .detail-info) {\n  border-bottom-left-radius:inherit!important;\n  border-bottom-right-radius:inherit!important;\n}\n",
+      "\n/* Remove the complete suggestions row, including its layout space. */\nbody .leai-member-page .leai-member-suggestions-panel,\nbody .leai-member-page [data-member-section=\"insights\"] { display:none!important; }\n",
+      "\n/* History messages render before the lazy checkout module is loaded. */\nbody .lx-fulfillment-suggestion{margin:10px 0 0;color:#353037;font-size:14px;line-height:1.8}\nbody .lx-fulfillment-suggestion .lx-fulfillment-link{display:inline;padding:0 2px;border:0;border-bottom:1px solid currentColor;border-radius:0;background:transparent;color:#681057;font:inherit;font-weight:700;line-height:inherit;cursor:pointer;box-shadow:none}\nbody .lx-fulfillment-suggestion .lx-fulfillment-link:hover,body .lx-fulfillment-suggestion .lx-fulfillment-link:focus{color:#a51f42}\n",
+      "\nhtml body[data-page] .page-dots .prompt-menu{overflow-x:hidden!important;overflow-y:auto!important;box-sizing:border-box}\nhtml body[data-page] .page-dots .prompt-menu .menu-row,html body[data-page] .page-dots .prompt-menu .trail-row,html body[data-page] .page-dots .prompt-menu .lx-trail-head{display:block;box-sizing:border-box;width:100%;max-width:100%;min-width:0;overflow:hidden!important;white-space:nowrap!important;text-overflow:ellipsis!important}\n",
+      "\nhtml body[data-page] .assistant-panel .page-dots.page-dots i{width:5px!important;height:5px!important;min-width:5px!important;min-height:5px!important;border-radius:50%!important}\nhtml body[data-page] .assistant-panel .page-dots.page-dots i.active{background:#4d144a!important}\n",
+      "\nhtml #lx-reco-match-dialog{width:min(720px,calc(100vw - 48px));height:fit-content;max-height:min(760px,88dvh);padding:24px;border:1px solid #e2ddeb;border-radius:8px;box-shadow:0 24px 70px rgba(155,142,182,.62),0 4px 14px rgba(50,29,57,.08);overflow:hidden;color:#252525}\nhtml #lx-reco-match-dialog[open]{display:flex;flex-direction:column}\nhtml #lx-reco-match-dialog .lx-match-layout{height:auto;max-height:calc(min(760px,88dvh) - 50px);gap:20px;flex:0 1 auto;min-height:0}\nhtml #lx-reco-match-dialog h2{font-size:20px;line-height:28px;font-weight:600;padding-right:36px}\nhtml #lx-reco-match-dialog .lx-match-close{right:18px;top:20px;width:28px;height:28px;border-radius:50%;color:#979797}\nhtml #lx-reco-match-dialog .lx-match-close:hover{background:#f3f0f7}\nhtml #lx-reco-match-dialog .lx-match-scroll{flex:0 1 auto;min-height:0;overflow:auto}\nhtml #lx-reco-match-dialog .lx-match-product{gap:16px;padding:16px;margin-bottom:16px;border:1px solid #e2ddeb;border-radius:8px;background:#faf8fc}\nhtml #lx-reco-match-dialog .lx-match-product img{width:88px;height:88px;border-radius:8px}\nhtml #lx-reco-match-dialog h3{font-size:16px;line-height:24px;font-weight:600;margin:0 0 8px;overflow-wrap:anywhere;color:#252525}\nhtml #lx-reco-match-dialog .lx-match-price{font-size:18px;line-height:26px;font-weight:600;color:#252525}\nhtml #lx-reco-match-dialog .lx-match-table-wrap{border:1px solid #e2ddeb;border-radius:8px;background:#fff}\nhtml #lx-reco-match-dialog table{font-size:14px;line-height:22px;table-layout:fixed}\nhtml #lx-reco-match-dialog th,html #lx-reco-match-dialog td{padding:12px;overflow-wrap:anywhere;border-color:#e2ddeb}\nhtml #lx-reco-match-dialog th{background:#f3f0f7;font-weight:600}\nhtml #lx-reco-match-dialog th:first-child,html #lx-reco-match-dialog td:first-child{width:88px}\nhtml #lx-reco-match-dialog th:nth-child(2){width:124px}\nhtml #lx-reco-match-dialog .lx-match-status{width:20px;height:20px;font-size:14px;background:#4d144a}\nhtml #lx-reco-match-dialog .lx-match-status.pending{background:#f3f0f7;color:#979797}\nhtml #lx-reco-match-dialog .lx-match-footer{padding-top:16px;border-top:1px solid #e2ddeb;flex:none}\nhtml #lx-reco-match-dialog .lx-match-buy{min-width:104px;height:40px;padding:0 24px;border-radius:8px;font-size:14px;line-height:20px;font-weight:500;background:#4d144a}\nhtml #lx-reco-match-dialog .lx-match-buy:hover{filter:brightness(1.12)}\n@media(max-width:600px){html #lx-reco-match-dialog{width:calc(100vw - 24px);padding:20px}html #lx-reco-match-dialog .lx-match-layout{max-height:calc(88dvh - 42px)}html #lx-reco-match-dialog th:first-child,html #lx-reco-match-dialog td:first-child{width:72px}html #lx-reco-match-dialog th:nth-child(2){width:92px}html #lx-reco-match-dialog .lx-match-product img{width:64px;height:64px}}\n",
+      "html body #lx-reco-match-dialog{box-shadow:none!important}html body #lx-reco-match-dialog .lx-match-buy{background:linear-gradient(110deg,#4d144a,#b8252e)!important;box-shadow:none!important}",
+      "html body .composer .lx-ref-chips:has(.lx-ref-chip-mini),html body .lxfd .lx-ref-chips:has(.lx-ref-chip-mini){display:grid!important;grid-template-columns:repeat(5,minmax(0,1fr))!important;gap:9px!important;overflow:visible!important}html body .lx-ref-chips .lx-ref-chip-mini{width:100%!important;box-sizing:border-box!important;min-width:0!important}html body .composer:has(.lx-ref-chip-mini){height:auto!important}html body .composer:has(.lx-ref-chip-mini)>.attach{max-height:none!important;height:auto!important;overflow:visible!important}html body[data-page] .assistant-panel form.composer.has:has(.lx-ref-chip-mini:nth-child(6)){min-height:223px!important}html body .composer:has(.lx-ref-chip-mini) textarea{flex-shrink:0!important}",
+      "\nhtml body .lx-ref-chips .lx-ref-chip-mini{display:grid!important;grid-template-columns:minmax(0,1fr) 16px!important;column-gap:2px!important;padding:5px 4px!important;align-items:center!important}\nhtml body .lx-ref-chips .lx-ref-chip-mini>img{width:100%!important;max-width:30px!important;min-width:0!important;justify-self:center}\nhtml body .lx-ref-chips .lx-ref-chip-mini>span{display:none!important}\nhtml body .lx-ref-chips .lx-ref-chip-mini>[data-ref-remove-idx]{position:static!important;transform:none!important;margin:0!important;width:16px!important;height:16px!important;min-width:0!important;justify-self:end;box-sizing:border-box!important}\n",
+      "\nhtml body .product-detail .lx-detail-benefits-v182 .lx-detail-benefits-label{font-weight:600!important}\nhtml body .product-detail .lx-detail-benefits-v182 .lx-detail-benefits-price strong,html body .product-detail .lx-detail-benefits-v182 .lx-detail-benefits-price strong>span{font-weight:700!important}\n",
+      ".lx-approved-icon{display:inline-block;width:18px;height:18px;flex:0 0 auto;background:currentColor;-webkit-mask:var(--lx-icon) center/contain no-repeat;mask:var(--lx-icon) center/contain no-repeat;vertical-align:-.12em}.lx-approved-icon-img{display:inline-block;width:18px;height:18px;flex:0 0 auto;object-fit:contain;vertical-align:-.12em}.answer-cta-icon>.lx-approved-icon,.answer-cta-icon>.lx-approved-icon-img{width:12px;height:12px}.message-actions .lx-approved-icon,.message-actions .lx-approved-icon-img{width:18px;height:18px}.lx-wpa-dot .lx-approved-icon{width:12px;height:12px;color:#ffffff}.obtn .lx-approved-icon,.obtn .lx-approved-icon-img{width:18px;height:18px}",
+      "\n            html body .lx-service-intake{width:100%!important;max-width:820px!important;margin-top:18px!important;border:1px solid #E2DDEB!important;border-radius:8px!important;background:#FCFAFF!important;overflow:hidden!important}\n            html body .lx-service-intake .lx-service-intake-item{display:grid!important;grid-template-columns:28px minmax(0,1fr)!important;align-items:center!important;gap:16px!important;min-height:78px!important;padding:18px 22px!important;border-bottom:1px solid #E2DDEB!important;background:#FFFFFF!important}\n            html body .lx-service-intake .lx-service-intake-item:last-child{border-bottom:0!important}\n            html body .lx-service-intake .lx-service-intake-index{display:grid!important;place-items:center!important;width:28px!important;height:28px!important;border-radius:8px!important;background:#F3F0F7!important;color:#4D144A!important;font-size:13px!important;line-height:20px!important;font-weight:500!important}\n            html body .lx-service-intake .lx-service-intake-copy{display:grid!important;grid-template-columns:minmax(220px,.8fr) minmax(0,1.2fr)!important;align-items:center!important;gap:24px!important;min-width:0!important}\n            html body .lx-service-intake .lx-service-intake-copy>strong{display:block!important;color:#252525!important;font-size:15px!important;line-height:22px!important;font-weight:500!important;white-space:normal!important}\n            html body .lx-service-intake .lx-service-intake-actions{display:flex!important;align-items:center!important;flex-wrap:wrap!important;width:100%!important;min-width:0!important;gap:10px!important}\n            html body .lx-service-intake .lx-service-intake-btn{display:inline-flex!important;align-items:center!important;justify-content:flex-start!important;width:auto!important;max-width:100%!important;min-width:0!important;min-height:40px!important;height:auto!important;margin:0!important;padding:9px 14px!important;border:1px solid #E2DDEB!important;border-radius:8px!important;background:#FFFFFF!important;color:#4D144A!important;font-family:inherit!important;font-size:14px!important;line-height:20px!important;font-weight:500!important;white-space:normal!important;word-break:normal!important;overflow-wrap:anywhere!important;box-shadow:none!important;transition:background-color .16s ease,border-color .16s ease!important}\n            html body .lx-service-intake .lx-service-intake-btn.primary{border-color:#D3BFD2!important;background:#F3F0F7!important}\n            html body .lx-service-intake .lx-service-intake-btn:hover{border-color:#4D144A!important;background:#F3F0F7!important}\n            html body .lx-service-intake .lx-service-intake-btn:focus-visible{border-color:#4D144A!important;outline:2px solid #4D144A!important;outline-offset:2px!important}\n            .assistant-panel .lx-service-intake{max-width:none!important}\n            .assistant-panel .lx-service-intake .lx-service-intake-item{grid-template-columns:28px minmax(0,1fr)!important;align-items:start!important;gap:14px!important;min-height:0!important;padding:16px!important}\n            .assistant-panel .lx-service-intake .lx-service-intake-copy{grid-template-columns:minmax(0,1fr)!important;gap:10px!important}\n            .assistant-panel .lx-service-intake .lx-service-intake-actions{gap:8px!important}\n            .assistant-panel .lx-service-intake [data-lx-service-region-open]{width:100%!important}\n            .reco-page.lx-service-reco-page .reco-head h2{margin:0 0 0 10px!important;font-size:22px!important;line-height:32px!important;font-weight:500!important;color:#252525!important;letter-spacing:0!important}\n            .reco-page.lx-service-reco-page .reco-row-main>strong{font-weight:500!important}\n            html body:is([data-page=\"personal\"],[data-page=\"business\"],[data-page=\"enterprise\"],[data-page=\"brand\"]):not(.assistant-fullscreen) .content[data-view=\"reco\"] .reco-page.lx-service-reco-page:has(> .reco-row)>.reco-row{overflow:visible!important}\n            html body:is([data-page=\"personal\"],[data-page=\"business\"],[data-page=\"enterprise\"],[data-page=\"brand\"]):not(.assistant-fullscreen) .content[data-view=\"reco\"] .reco-page.lx-service-reco-page:has(> .reco-row)>.reco-row .reco-row-tags{top:14px!important;left:82px!important;width:auto!important;max-width:none!important;overflow:visible!important;flex-wrap:nowrap!important;z-index:5!important}\n            html body:is([data-page=\"personal\"],[data-page=\"business\"],[data-page=\"enterprise\"],[data-page=\"brand\"]):not(.assistant-fullscreen) .content[data-view=\"reco\"] .reco-page.lx-service-reco-page:has(> .reco-row)>.reco-row .reco-row-tags .product-promo{display:inline-flex!important;align-items:center!important;justify-content:center!important;width:max-content!important;min-width:max-content!important;max-width:none!important;height:20px!important;padding:0 8px!important;line-height:20px!important;font-size:10px!important;letter-spacing:0!important;white-space:nowrap!important;overflow:visible!important;text-overflow:clip!important;box-sizing:border-box!important}\n          ",
+      ".content.is-generating-tab{overflow:hidden!important;overscroll-behavior:contain!important;touch-action:none!important}.content.is-generating-tab .lx-page-generating{min-height:100%!important;pointer-events:auto!important}.content.is-generating-tab .lx-page-generating.is-show{pointer-events:auto!important}",
+      "\n    .lx-agent-chain-head{font-size:13px;font-weight:700;color:var(--lx-brand-red,#B8252E);margin-bottom:8px;display:flex;align-items:center;gap:6px}\n    .lx-agent-step-text{display:flex;flex-direction:column;gap:2px}\n    .lx-agent-step-detail{font-size:12px;font-weight:400;color:var(--text-muted,#979797)}\n    .lx-agent-note{font-size:13.5px;color:var(--text,#252525);line-height:1.6}",
+      ".lx-product-compare .lx-pc-grid > .lx-pc-cell[data-col]{cursor:pointer}.lx-product-compare .lx-pc-grid > .lx-pc-cell[data-col]:focus-visible{outline:2px solid #4d144a;outline-offset:-2px}",
+      ".assistant-panel .followups button::after,.assistant-panel [data-followups] button::after,.assistant-panel .lx-p0-suggest-chip::after,.lxfd-followups button::after,.lxfd-ai-body .followups button::after,.lxfd-ai-body [data-followups] button::after,.lxfd-ai-body .lx-p0-suggest-chip::after{content:\"\"!important;display:inline-block!important;width:9px!important;height:5px!important;margin-left:5px!important;vertical-align:middle!important;background:currentColor!important;-webkit-mask:url(/assets/icons/arrow-down.svg) center/contain no-repeat!important;mask:url(/assets/icons/arrow-down.svg) center/contain no-repeat!important;transform:rotate(-90deg) scale(0.6666667)!important;}.assistant-panel .followups button,.assistant-panel [data-followups] button,.assistant-panel .lx-p0-suggest-chip,.lxfd-followups button,.lxfd-ai-body .followups button,.lxfd-ai-body [data-followups] button,.lxfd-ai-body .lx-p0-suggest-chip{display:inline-flex!important;align-items:center!important;justify-content:flex-start!important;}",
+      "html body .lx-p0-message.ai .lx-enterprise-lead-reco,\nhtml body .lx-p0-message.assistant .lx-enterprise-lead-reco { width:50%!important; min-width:190px!important; max-width:240px!important; min-height:48px!important; display:flex!important; align-items:center!important; justify-content:space-between!important; gap:16px!important; margin-top:14px!important; padding:0 14px 0 16px!important; border:1px solid var(--answer-card-border,#e2ddeb)!important; border-radius:8px!important; background:#fff!important; box-shadow:none!important; }\nhtml body .lx-p0-message.ai .lx-enterprise-lead-reco .answer-cta-title,\nhtml body .lx-p0-message.assistant .lx-enterprise-lead-reco .answer-cta-title { overflow:hidden!important; color:#4d144a!important; font-size:14px!important; line-height:20px!important; font-weight:600!important; white-space:nowrap!important; text-overflow:ellipsis!important; }\nhtml body .lx-p0-message.ai .lx-enterprise-lead-reco .answer-cta-icon,\nhtml body .lx-p0-message.assistant .lx-enterprise-lead-reco .answer-cta-icon { flex:0 0 24px!important; width:24px!important; height:24px!important; display:grid!important; place-items:center!important; }\nhtml body .lx-p0-message.ai .lx-enterprise-lead-reco .answer-cta-icon img,\nhtml body .lx-p0-message.assistant .lx-enterprise-lead-reco .answer-cta-icon img { width:16px!important; height:16px!important; }\nhtml body .lx-p0-message.ai .lx-enterprise-lead-reco:hover,\nhtml body .lx-p0-message.ai .lx-enterprise-lead-reco:focus-visible,\nhtml body .lx-p0-message.assistant .lx-enterprise-lead-reco:hover,\nhtml body .lx-p0-message.assistant .lx-enterprise-lead-reco:focus-visible { border-color:#4d144a!important; background:#fcfaff!important; outline:none!important; }\n\n/* Fullscreen assistant reuses the same authentication recommendation card. */\n.lxfd-msg-ai.lx-auth-flow-answer .lxfd-ai-body strong { font-weight:600!important; }\nhtml body .lxfd-msg-ai .lx-enterprise-lead-reco { width:50%!important; min-width:190px!important; max-width:240px!important; min-height:48px!important; display:flex!important; align-items:center!important; justify-content:space-between!important; gap:16px!important; margin-top:14px!important; padding:0 14px 0 16px!important; border:1px solid var(--answer-card-border,#e2ddeb)!important; border-radius:8px!important; background:#fff!important; box-shadow:none!important; }\nhtml body .lxfd-msg-ai .lx-enterprise-lead-reco .answer-cta-title { overflow:hidden!important; color:#4d144a!important; font-size:14px!important; line-height:20px!important; font-weight:600!important; white-space:nowrap!important; text-overflow:ellipsis!important; }\nhtml body .lxfd-msg-ai .lx-enterprise-lead-reco .answer-cta-icon { flex:0 0 24px!important; width:24px!important; height:24px!important; display:grid!important; place-items:center!important; }\nhtml body .lxfd-msg-ai .lx-enterprise-lead-reco .answer-cta-icon img { width:16px!important; height:16px!important; }\nhtml body .lxfd-msg-ai .lx-enterprise-lead-reco:hover,\nhtml body .lxfd-msg-ai .lx-enterprise-lead-reco:focus-visible { border-color:#4d144a!important; background:#fcfaff!important; outline:none!important; }\n\n",
+      "\n.lx-answer-managed .message-actions,.lx-answer-managed .answer-actions,.lx-answer-managed .lx-p0-actions,.lx-answer-managed .followups,.lx-answer-managed .lxfd-followups,.lx-answer-managed [data-followups],.lx-answer-managed .lx-p0-suggest{display:none!important}\n.lx-p0-messages :is(.lx-p0-disclaimer,.lxfd-disclaimer,.leai-disclaimer),.lxfd-thread :is(.lx-p0-disclaimer,.lxfd-disclaimer,.leai-disclaimer){display:none!important}\n.lx-answer-tools{margin:8px 0 0;clear:both}.lx-answer-tools[hidden]{display:none!important}.lx-answer-toolbar{display:flex;align-items:center;gap:4px;min-height:32px;opacity:0;pointer-events:none;transition:opacity .16s ease}.lx-answer-tools.is-latest>.lx-answer-toolbar,.lx-p0-message:hover .lx-answer-toolbar,.lxfd-msg-ai:hover .lx-answer-toolbar,.lxfd-msg:hover .lx-answer-toolbar,.lx-answer-tools:focus-within>.lx-answer-toolbar{opacity:1;pointer-events:auto}.lx-answer-toolbar>button{display:inline-flex;align-items:center;justify-content:center;width:28px;height:28px;padding:5px;border:0;border-radius:6px;background:transparent;color:#979797;cursor:pointer}.lx-answer-toolbar>button:hover,.lx-answer-toolbar>button[aria-pressed=true]{color:#4d144a;background:#f3f0f7}.lx-answer-toolbar>button:disabled{color:#979797;cursor:default}.lx-answer-toolbar>button:focus-visible,.lx-answer-question:focus-visible{outline:2px solid #4d144a;outline-offset:2px}.lx-answer-icon{display:block;width:18px;height:18px;background:currentColor;-webkit-mask:var(--answer-icon) center/contain no-repeat;mask:var(--answer-icon) center/contain no-repeat}.lx-answer-followups{margin-top:8px}.lx-answer-tools:not(.is-latest)>.lx-answer-followups{display:none}.lx-answer-followups-title{margin-bottom:6px;color:#979797;font-size:12px;line-height:20px}.lx-answer-questions{display:flex;flex-direction:column;align-items:flex-start;gap:8px}.lx-answer-tools .lx-answer-question{display:inline-flex;align-items:center;justify-content:flex-start;min-height:0;max-width:100%;padding:0;border:0;border-radius:0;background:transparent;color:#4d144a;font:inherit;font-size:12px;font-weight:400;line-height:1.55;text-align:left;cursor:pointer;box-shadow:none;transition:color .16s ease,transform .16s ease}.lx-answer-question:hover{color:#5b1452;transform:translateX(3px)}.lx-answer-question::after{content:\"\";display:inline-block;flex:none;width:9px;height:5px;margin-left:5px;vertical-align:middle;background:currentColor;-webkit-mask:url(/assets/icons/arrow-down.svg) center/contain no-repeat;mask:url(/assets/icons/arrow-down.svg) center/contain no-repeat;transform:rotate(-90deg) scale(0.6666667)}\n#lx-answer-feedback{position:fixed;bottom:24px;left:50%;transform:translateX(-50%);z-index:10000;max-width:80vw;padding:8px 16px;border:1px solid #e2ddeb;border-radius:8px;background:#FFFFFF;color:#625b68;font-size:13px;box-shadow:0 6px 18px rgba(50,29,57,.08)}#lx-answer-feedback[hidden]{display:none}\n#lx-answer-share-dialog{width:min(520px,calc(100vw - 48px));padding:20px;border:1px solid #e2ddeb;border-radius:16px;background:#FFFFFF;color:#252525}#lx-answer-share-dialog::backdrop{background:rgba(155,142,182,.62)}.lx-answer-share-head{display:flex;justify-content:space-between;align-items:center;margin-bottom:16px}.lx-answer-share-head h2{margin:0;font-size:18px;font-weight:600}.lx-answer-share-head button{border:0;background:transparent;color:#625b68;cursor:pointer}#lx-answer-share-dialog label{display:block;margin-bottom:8px;font-size:13px;color:#625b68}#lx-answer-share-content{width:100%;height:240px;padding:12px;border:1px solid #e2ddeb;border-radius:8px;resize:vertical;color:#252525;background:#FFFFFF;font:inherit;font-size:14px;line-height:1.6}.lx-answer-share-bottom{display:flex;justify-content:flex-end;margin-top:16px}.lx-answer-share-bottom button{padding:8px 16px;border:1px solid #e2ddeb;border-radius:8px;background:#f3f0f7;color:#4d144a;cursor:pointer}@media(prefers-reduced-motion:reduce){.lx-answer-toolbar,.lx-answer-question{transition:none}.lx-answer-question:hover{transform:none}}@media(hover:none){.lx-answer-toolbar{opacity:1;pointer-events:auto}}\n",
+      "\n.lx-market-review-media button[data-review-video]{position:relative;overflow:hidden}.lx-review-play{position:absolute;inset:50% auto auto 50%;transform:translate(-50%,-50%);display:grid;place-items:center;width:28px;height:28px;border-radius:50%;background:#190e21b3;color:#fff;font-size:13px;pointer-events:none}.lx-review-video-label{position:absolute;bottom:0;left:0;right:0;background:#190e21b3;color:#fff;font-size:10px;line-height:16px;text-align:center;pointer-events:none}\n#lx-review-media-viewer{position:fixed;inset:0;width:100vw;height:100vh;height:100dvh;max-width:none;max-height:none;margin:0;padding:64px 72px 32px;box-sizing:border-box;border:0;border-radius:0;background:transparent;color:#fff;overflow:hidden;box-shadow:none}#lx-review-media-viewer::backdrop{background:var(--lx-modal-overlay-background,rgba(25, 14, 33, 0.7))}#lx-review-media-viewer .lx-review-view-header{position:absolute;inset:12px 20px auto;display:flex;justify-content:space-between;align-items:center;gap:16px}#lx-review-media-viewer button{display:grid;place-items:center;flex:none;width:44px;height:44px;border:1px solid #ffffff66;border-radius:50%;background:#190e2166;color:#fff;font:400 32px/1 sans-serif;cursor:pointer}#lx-review-media-viewer button:hover{background:#ffffff33}#lx-review-media-viewer button:focus-visible{outline:2px solid #fff;outline-offset:3px}#lx-review-media-viewer button:disabled{opacity:.25;cursor:default}#lx-review-media-viewer [data-review-prev],#lx-review-media-viewer [data-review-next]{position:absolute;top:50%;transform:translateY(-50%)}#lx-review-media-viewer [data-review-prev]{left:16px}#lx-review-media-viewer [data-review-next]{right:16px}.lx-review-view-status{font-size:14px;line-height:24px}.lx-review-view-stage{width:100%;height:100%;display:flex;align-items:center;justify-content:center}.lx-review-view-stage img,.lx-review-view-stage video{display:block;width:100%;height:100%;object-fit:contain}.lx-review-view-stage video{background:#000}.lx-review-view-error{font-size:14px;color:#fff}@media(max-width:600px){#lx-review-media-viewer{padding:70px 48px 32px}#lx-review-media-viewer [data-review-prev]{left:2px}#lx-review-media-viewer [data-review-next]{right:2px}}\n",
+      ".composer [data-mode-chip=\"think\"][aria-pressed=\"false\"],.hero-composer [data-mode-chip=\"think\"][aria-pressed=\"false\"]{background:transparent!important;color:#625b68!important;border-color:#e2ddeb!important;box-shadow:none!important}.lxfd-comp-left .lxfd-toggle[aria-pressed=\"false\"]{background:transparent!important;box-shadow:none!important}",
+      "\n.lx-reco-match-label{cursor:pointer}.lx-reco-match-label:focus-visible{outline:2px solid #4d144a;outline-offset:3px}\n#lx-reco-match-dialog{box-sizing:border-box;width:min(1080px,calc(100vw - 64px));height:min(730px,calc(100dvh - 64px));max-width:none;max-height:none;padding:42px 56px;border:1px solid #e2ddeb;border-radius:12px;background:#fff;color:#242424;box-shadow:0 20px 70px #190e2126;font-family:inherit}\n#lx-reco-match-dialog::backdrop{background:var(--lx-modal-overlay-background,rgba(25, 14, 33, 0.7))}\n#lx-reco-match-dialog .lx-match-layout{height:100%;display:flex;flex-direction:column;gap:26px;min-height:0}\n#lx-reco-match-dialog h2{font-size:26px;line-height:1.4;margin:0;font-weight:700}\n#lx-reco-match-dialog .lx-match-close{position:absolute;right:20px;top:18px;border:0;background:transparent;color:#979797;width:32px;height:32px;cursor:pointer;display:grid;place-items:center}\n#lx-reco-match-dialog .lx-match-scroll{overflow:auto;min-height:0;flex:1}\n#lx-reco-match-dialog .lx-match-product{display:flex;align-items:center;gap:22px;padding:20px;background:#fbf9fd;border:1px solid #eee9f5;border-radius:12px;margin-bottom:14px}\n#lx-reco-match-dialog .lx-match-product img{width:128px;height:128px;object-fit:contain;background:white;border-radius:12px;flex:none}\n#lx-reco-match-dialog h3{font-size:20px;line-height:1.5;margin:0 0 12px;color:#111;font-weight:600}\n#lx-reco-match-dialog .lx-match-price{font-size:20px;font-weight:600;color:#111}\n#lx-reco-match-dialog .lx-match-table-wrap{border:1px solid #eee9f5;border-radius:12px;overflow:auto;background:#fbf9fd}\n#lx-reco-match-dialog table{border-collapse:collapse;width:100%;font-size:16px;line-height:1.65;text-align:left}\n#lx-reco-match-dialog th,#lx-reco-match-dialog td{padding:16px 20px;vertical-align:top;border-bottom:1px solid #eae5f1}\n#lx-reco-match-dialog tr:last-child td{border-bottom:0}#lx-reco-match-dialog th:first-child,#lx-reco-match-dialog td:first-child{width:90px;text-align:center;white-space:nowrap}#lx-reco-match-dialog th:nth-child(2){width:140px}\n#lx-reco-match-dialog .lx-match-status{display:inline-grid;place-items:center;width:23px;height:23px;border-radius:50%;color:white;background:linear-gradient(110deg,#4d144a,#bd202a);font-size:16px}#lx-reco-match-dialog .lx-match-check-icon{display:block;width:20px;height:20px;background:currentColor;mask:url(\"/assets/icons/global-check.svg\") center/contain no-repeat;-webkit-mask:url(\"/assets/icons/global-check.svg\") center/contain no-repeat}#lx-reco-match-dialog .lx-match-status.pending{background:#eee9f3;color:#807687;font-size:14px}\n#lx-reco-match-dialog .lx-match-footer{display:flex;justify-content:flex-end;padding-top:12px}\n#lx-reco-match-dialog .lx-match-buy{border:0;border-radius:999px;min-width:188px;padding:13px 32px;color:white;background:linear-gradient(110deg,#4d144a,#bd202a);font:inherit;font-size:20px;cursor:pointer}\n#lx-reco-match-dialog button:hover{filter:brightness(.96)}#lx-reco-match-dialog button:focus-visible{outline:2px solid #4d144a;outline-offset:3px}\n@media(max-width:700px){#lx-reco-match-dialog{width:calc(100vw - 24px);height:calc(100dvh - 32px);padding:28px 18px}#lx-reco-match-dialog .lx-match-product{padding:12px;gap:12px}#lx-reco-match-dialog .lx-match-product img{width:80px;height:80px}#lx-reco-match-dialog h3{font-size:16px}#lx-reco-match-dialog th,#lx-reco-match-dialog td{padding:12px 10px}#lx-reco-match-dialog table{font-size:14px}}\n",
+      ".lx-tabbar .lx-tab[data-tab-sortable=\"true\"]{cursor:grab}.lx-tabbar .lx-tab[data-tab-sortable=\"true\"]:active{cursor:grabbing}.lx-tabbar .lx-tab.lx-tab-dragging{opacity:.45}.lx-tabbar .lx-tab.lx-tab-drop-before{box-shadow:-3px 0 0 #4d144a!important}.lx-tabbar .lx-tab.lx-tab-drop-after{box-shadow:3px 0 0 #4d144a!important}.lx-tabbar .lx-tab-close{cursor:pointer}.lx-tabbar .lx-tab[draggable=\"true\"] img{-webkit-user-drag:none}",
+      ".info-page:has(> .lx-solution-center-page) > .reco-head, .lx-solution-center-page > .lx-solution-tabs { display: none !important; } .lx-solution-center-page .lx-solution-card > em { display: none !important; } html body .content .lx-sd-entity-card[data-solution-product-detail] .lx-sd-entity-card-copy > em { display:none!important; } html body .content .lx-solution-center-page .lx-solution-card { border:0!important; } html body[data-page] main.shell section.content:has(.lx-solution-center-page) { background-color:#f5f5f7!important; background-image:linear-gradient(180deg,#fff 0,#fff 74px,#fefefe 96px,#fafafa 122px,#f7f7f8 164px,#f5f5f7 214px,#f5f5f7 100%)!important; background-repeat:no-repeat!important; } html body[data-page] main.shell section.content .info-page:has(.lx-solution-center-page), html body[data-page] main.shell section.content .page:has(.lx-solution-center-page), html body .content .lx-solution-center-page, html body .content .lx-solution-center-page .lx-solution-floor { background:transparent!important; }",
+      ".content[data-view=\"detail\"] .detail-primary{background:linear-gradient(90deg,#4d144a 11.9%,#b8252e 100%)!important;box-shadow:none!important}.content[data-view=\"detail\"] .detail-title{font-weight:600!important}.content[data-view=\"detail\"] .detail-image-stage{min-height:0}.content[data-view=\"detail\"] .detail-image-stage img{display:block;width:100%;height:auto}"
+    ]
+  },
+  "title": "联想乐享 PC 端首页全屏对话模板",
+  "tree": {
+    "attrs": {
+      "class": "lx-auto-fs lxfd-force-motion assistant-fullscreen lx-root-home",
+      "data-page": "home",
+      "data-state": "chat"
+    },
+    "children": [
+      {
+        "attrs": {
+          "data-p0-inline-source": "/assets/frontend/js/pages/home/inline-08.js"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": "if (document.documentElement.classList.contains(\"lx-root-lxfd-prepaint\")) {\n        document.body.classList.add(\"assistant-fullscreen\", \"lx-auto-fs\");\n        document.body.dataset.state = \"chat\";\n      }"
+      },
+      {
+        "attrs": {
+          "data-p0-inline-source": "/assets/frontend/js/shared/inline-dab1b3ae0743.js"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": "// 顶部频道导航仅保留 hover 预览，不响应鼠标、触控或键盘点击。\n      (function () {\n        function blockTopNavActivation(event) {\n          if (!event.isTrusted || !event.target.closest) return;\n          var item = event.target.closest(\n            \".main-nav > b"
+      },
+      {
+        "attrs": {
+          "class": "topbar"
+        },
+        "children": [
+          {
+            "attrs": {
+              "aria-label": "新建对话并返回首页",
+              "class": "brand",
+              "href": "/",
+              "title": "新建对话并返回首页"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "alt": "联想乐享",
+                  "src": "../logos/logo-full-red.png"
+                },
+                "children": [],
+                "classes": "",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "img",
+                "text": null
+              }
+            ],
+            "classes": "brand",
+            "id": null,
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "a",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-label": "主导航",
+              "class": "main-nav",
+              "data-current-label": "开启新对话",
+              "data-shop-current-label": "开启新对话",
+              "style": "--lx-personal-nav-label-half: 52px;"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "aria-hidden": "true",
+                  "class": "lx-current-topic-chip"
+                },
+                "children": [],
+                "classes": "lx-current-topic-chip",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "span",
+                "text": "开启新对话"
+              },
+              {
+                "attrs": {
+                  "aria-current": "page",
+                  "class": "active",
+                  "data-page": "home",
+                  "style": "display: none !important;",
+                  "type": "button"
+                },
+                "children": [],
+                "classes": "active",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": "首页"
+              },
+              {
+                "attrs": {
+                  "data-page": "personal",
+                  "type": "button"
+                },
+                "children": [],
+                "classes": "",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": "个人及家庭"
+              },
+              {
+                "attrs": {
+                  "data-page": "business",
+                  "type": "button"
+                },
+                "children": [],
+                "classes": "",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": "中小企业"
+              },
+              {
+                "attrs": {
+                  "data-page": "enterprise",
+                  "type": "button"
+                },
+                "children": [],
+                "classes": "",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": "政教及大企业"
+              },
+              {
+                "attrs": {
+                  "data-page": "brand",
+                  "type": "button"
+                },
+                "children": [],
+                "classes": "",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": "品牌"
+              }
+            ],
+            "classes": "main-nav",
+            "id": null,
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "nav",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-label": "快捷入口",
+              "class": "utility"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "aria-label": "订单",
+                  "class": "utility-btn",
+                  "title": "订单",
+                  "type": "button"
+                },
+                "children": [
+                  "[MaxDepth]"
+                ],
+                "classes": "utility-btn",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "account-wrap"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "account-wrap",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              }
+            ],
+            "classes": "utility",
+            "id": null,
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "div",
+            "text": null
+          }
+        ],
+        "classes": "topbar",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "header",
+        "text": null
+      },
+      {
+        "attrs": {
+          "class": "shell"
+        },
+        "children": [
+          {
+            "attrs": {
+              "aria-label": "联想乐享 AI 助手",
+              "class": "assistant-panel"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "class": "tool-row"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "tool-row",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-expanded": "false",
+                  "aria-label": "对话全屏",
+                  "aria-pressed": "false",
+                  "class": "tool-btn assistant-toggle",
+                  "title": "对话全屏",
+                  "type": "button"
+                },
+                "children": [
+                  "[MaxDepth]"
+                ],
+                "classes": "tool-btn assistant-toggle",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-hidden": "true",
+                  "aria-label": "历史记录侧边栏",
+                  "class": "assistant-history-sidebar"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "assistant-history-sidebar",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "aside",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "panel-state default-state"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "panel-state default-state",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "section",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "panel-state chat-state"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "panel-state chat-state",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "section",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "当前对话历史",
+                  "class": "page-dots is-empty"
+                },
+                "children": [
+                  "[MaxDepth]"
+                ],
+                "classes": "page-dots is-empty",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "assistant-bottom"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "assistant-bottom",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "拖拽调整左侧智能体宽度",
+                  "class": "panel-resizer",
+                  "title": "拖拽调整宽度",
+                  "type": "button"
+                },
+                "children": [],
+                "classes": "panel-resizer",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "button",
+                "text": null
+              }
+            ],
+            "classes": "assistant-panel",
+            "id": null,
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "aside",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-label": "展开智能体",
+              "class": "assistant-restore",
+              "title": "展开智能体",
+              "type": "button"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "alt": "",
+                  "class": "icon",
+                  "src": "../icons/sidebar-history.svg"
+                },
+                "children": [],
+                "classes": "icon",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "img",
+                "text": null
+              }
+            ],
+            "classes": "assistant-restore",
+            "id": null,
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "button",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-label": "导购内容",
+              "class": "content",
+              "data-view": "home"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "aria-label": "新建对话并返回首页",
+                  "class": "brand-page brand lx-brand-skin",
+                  "data-v": "3",
+                  "title": "新建对话并返回首页"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "brand-page brand lx-brand-skin",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "section",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "hero"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "hero",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "商品分类",
+                  "class": "category-tabs"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "category-tabs",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "nav",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "product-grid"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "product-grid",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "lx-site-floors",
+                  "data-site-floors": "",
+                  "hidden": ""
+                },
+                "children": [],
+                "classes": "lx-site-floors",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "商品详情",
+                  "class": "product-detail"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "product-detail",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "section",
+                "text": null
+              }
+            ],
+            "classes": "content",
+            "id": null,
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "section",
+            "text": null
+          }
+        ],
+        "classes": "shell",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "main",
+        "text": null
+      },
+      {
+        "attrs": {
+          "aria-label": "联想乐享全屏对话",
+          "class": "lxfd",
+          "style": "display: block; visibility: visible;"
+        },
+        "children": [
+          {
+            "attrs": {
+              "class": "lxfd-topbar"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "aria-label": "新建对话并返回首页",
+                  "class": "lxfd-logo-pill anim-fade",
+                  "data-page": "home",
+                  "href": "/",
+                  "title": "新建对话并返回首页"
+                },
+                "children": [
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-logo-pill anim-fade",
+                "id": null,
+                "rect": {
+                  "height": 50,
+                  "width": 178,
+                  "x": 18,
+                  "y": 0
+                },
+                "tag": "a",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "全屏导航",
+                  "class": "lxfd-nav-cluster anim-fade",
+                  "data-lxfd-nav-intro-ready": "1",
+                  "id": "lxfdNavCluster",
+                  "style": "--lxfd-nav-label-half: 52px;"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-nav-cluster anim-fade",
+                "id": "lxfdNavCluster",
+                "rect": {
+                  "height": 50,
+                  "width": 360,
+                  "x": 125.66667175292967,
+                  "y": 0
+                },
+                "tag": "nav",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "快捷入口",
+                  "class": "lxfd-actions lxfd-glass anim-fade"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-actions lxfd-glass anim-fade",
+                "id": null,
+                "rect": {
+                  "height": 50,
+                  "width": 78,
+                  "x": 469.3333435058594,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              }
+            ],
+            "classes": "lxfd-topbar",
+            "id": null,
+            "rect": {
+              "height": 50,
+              "width": 565.3333740234375,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "header",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-hidden": "true",
+              "aria-label": "展开侧栏",
+              "class": "lxfd-rail-fab lxfd-glass",
+              "data-auth-history": "",
+              "hidden": "",
+              "id": "lxfdRailFab",
+              "style": "display:none!important",
+              "type": "button"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "alt": "",
+                  "class": "icon",
+                  "src": "../icons/sidebar-history.svg"
+                },
+                "children": [],
+                "classes": "icon",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "img",
+                "text": null
+              }
+            ],
+            "classes": "lxfd-rail-fab lxfd-glass",
+            "id": "lxfdRailFab",
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "button",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-label": "新建对话",
+              "class": "lxfd-rail-new-fab lxfd-glass hide",
+              "id": "lxfdRailNewFab",
+              "type": "button"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "alt": "",
+                  "aria-hidden": "true",
+                  "class": "icon",
+                  "src": "../icons/full-create.svg"
+                },
+                "children": [],
+                "classes": "icon",
+                "id": null,
+                "rect": {
+                  "height": 15,
+                  "width": 15,
+                  "x": 26.5,
+                  "y": 148.5
+                },
+                "tag": "img",
+                "text": null
+              }
+            ],
+            "classes": "lxfd-rail-new-fab lxfd-glass hide",
+            "id": "lxfdRailNewFab",
+            "rect": {
+              "height": 44,
+              "width": 44,
+              "x": 12,
+              "y": 134
+            },
+            "tag": "button",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-hidden": "true",
+              "aria-label": "对话与历史",
+              "class": "lxfd-rail lxfd-glass",
+              "data-auth-history": "",
+              "hidden": "",
+              "id": "lxfdRail",
+              "style": "display:none!important"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "class": "lxfd-rail-head"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-rail-head",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {},
+                "children": [],
+                "classes": "",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "h3",
+                "text": "历史记录"
+              },
+              {
+                "attrs": {
+                  "aria-label": "搜索历史对话",
+                  "autocomplete": "off",
+                  "class": "lxfd-history-search",
+                  "id": "lxfdHistorySearch",
+                  "placeholder": "搜索历史对话",
+                  "type": "search"
+                },
+                "children": [],
+                "classes": "lxfd-history-search",
+                "id": "lxfdHistorySearch",
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "input",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "lxfd-hist",
+                  "id": "lxfdHist"
+                },
+                "children": [
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-hist",
+                "id": "lxfdHist",
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "nav",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "lxfd-rail-foot"
+                },
+                "children": [
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-rail-foot",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": "· 积分可抵现，会员日翻倍，详情见会员中心。"
+              }
+            ],
+            "classes": "lxfd-rail lxfd-glass",
+            "id": "lxfdRail",
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "aside",
+            "text": null
+          },
+          {
+            "attrs": {
+              "class": "lxfd-scrim",
+              "id": "lxfdScrim"
+            },
+            "children": [],
+            "classes": "lxfd-scrim",
+            "id": "lxfdScrim",
+            "rect": {
+              "height": 669.3333740234375,
+              "width": 565.3333740234375,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "div",
+            "text": null
+          },
+          {
+            "attrs": {
+              "aria-label": "对话轮次索引",
+              "class": "lxfd-turn-index",
+              "id": "lxfdTurnIndex"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "aria-hidden": "true",
+                  "class": "lxfd-turn-dots",
+                  "id": "lxfdTurnDots"
+                },
+                "children": [],
+                "classes": "lxfd-turn-dots",
+                "id": "lxfdTurnDots",
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "lxfd-turn-panel lxfd-glass"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-turn-panel lxfd-glass",
+                "id": null,
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "div",
+                "text": null
+              }
+            ],
+            "classes": "lxfd-turn-index",
+            "id": "lxfdTurnIndex",
+            "rect": {
+              "height": 0,
+              "width": 0,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "aside",
+            "text": null
+          },
+          {
+            "attrs": {
+              "class": "lxfd-stage lxfd-gallery-home",
+              "id": "lxfdStage"
+            },
+            "children": [
+              {
+                "attrs": {
+                  "class": "lxfd-welcome",
+                  "id": "lxfdWelcome"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-welcome",
+                "id": "lxfdWelcome",
+                "rect": {
+                  "height": 76.1875,
+                  "width": 339,
+                  "x": 113.16667175292967,
+                  "y": 132
+                },
+                "tag": "section",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-live": "polite",
+                  "class": "lxfd-thread",
+                  "id": "lxfdThread"
+                },
+                "children": [],
+                "classes": "lxfd-thread",
+                "id": "lxfdThread",
+                "rect": {
+                  "height": 0,
+                  "width": 0,
+                  "x": 0,
+                  "y": 0
+                },
+                "tag": "section",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "lxfd-dock anim-rise"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-dock anim-rise",
+                "id": null,
+                "rect": {
+                  "height": 106.33333587646484,
+                  "width": 520,
+                  "x": 40,
+                  "y": 230.1875
+                },
+                "tag": "div",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "aria-label": "首页内容推荐",
+                  "class": "lxfd-home-gallery"
+                },
+                "children": [
+                  "[MaxDepth]",
+                  "[MaxDepth]"
+                ],
+                "classes": "lxfd-home-gallery",
+                "id": null,
+                "rect": {
+                  "height": 322.25,
+                  "width": 520,
+                  "x": 40,
+                  "y": 336.5208435058594
+                },
+                "tag": "section",
+                "text": null
+              },
+              {
+                "attrs": {
+                  "class": "lxfd-legal-line"
+                },
+                "children": [],
+                "classes": "lxfd-legal-line",
+                "id": null,
+                "rect": {
+                  "height": 18,
+                  "width": 453.9166870117187,
+                  "x": 55.70833587646485,
+                  "y": 633.3333740234375
+                },
+                "tag": "p",
+                "text": "京ICP备11035381-2 | 京公网安备110108007970号 | 营业执照：91110108700000458B"
+              }
+            ],
+            "classes": "lxfd-stage lxfd-gallery-home",
+            "id": "lxfdStage",
+            "rect": {
+              "height": 669.3333740234375,
+              "width": 565.3333740234375,
+              "x": 0,
+              "y": 0
+            },
+            "tag": "main",
+            "text": null
+          }
+        ],
+        "classes": "lxfd",
+        "id": null,
+        "rect": {
+          "height": 669.3333740234375,
+          "width": 565.3333740234375,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "div",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-template-file-top-nav": "",
+          "href": "/assets/frontend/css/pages/home/inline-10.css?p0v=c951c495deb4d31d",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/bundles/p0-home-core-1.js?p0v=68e249410c86c22f"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-document-insight-module": "",
+          "href": "/assets/frontend/css/pages/home/inline-12.css?p0v=ee9e7b7bd8907ece",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "href": "/assets/frontend/css/core/product-specs-grouped-v1.css?p0v=1026a542c206036b",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/product-specs-grouped-v1.js?p0v=e4edbdcfb53c4d7c"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "href": "/assets/frontend/css/core/arrival-notice-v1.css?p0v=3b09e9a2b19c58ae",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "href": "/assets/frontend/css/core/member-coupon-center-v1.css?p0v=9f11b28b9d95e66d",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/enterprise-auth-original-v1.js?p0v=6fa7a08121402d64"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/member-coupon-center-v1.js?p0v=0940425517a453a5"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/bundles/p0-home-core-2.js?p0v=be6bfcf225cef2bb"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "accept": "image/*",
+          "hidden": "",
+          "id": "lxP1ImageInput",
+          "type": "file"
+        },
+        "children": [],
+        "classes": "",
+        "id": "lxP1ImageInput",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "input",
+        "text": null
+      },
+      {
+        "attrs": {
+          "accept": "audio/*",
+          "hidden": "",
+          "id": "lxP1AudioInput",
+          "type": "file"
+        },
+        "children": [],
+        "classes": "",
+        "id": "lxP1AudioInput",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "input",
+        "text": null
+      },
+      {
+        "attrs": {
+          "href": "/assets/frontend/css/pages/home/inline-13.css?p0v=e27a2751c7fd0e54",
+          "id": "lxfd-home-composer-control-sync",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": "lxfd-home-composer-control-sync",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/app-lxfd.home-conversation-v122.placeholder-v147.controls-v150.js?p0v=cfd257a885af82b6"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "accept": "image/*",
+          "id": "lxfdFileInput",
+          "style": "display: none;",
+          "type": "file"
+        },
+        "children": [],
+        "classes": "",
+        "id": "lxfdFileInput",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "input",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/app-agent.js?p0v=2533e1dec0d991d4"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-template-file-top-nav": "",
+          "src": "/assets/frontend/js/pages/home/inline-14.js?p0v=b999d5bad4a1ed8a"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/pages/home/inline-15.js?p0v=638df9a970495484"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-template-nav-init": "",
+          "src": "/assets/frontend/js/pages/home/inline-16.js?p0v=1b0475066f47365d"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-lexiang-user-bubble-token": "",
+          "href": "/assets/frontend/css/pages/home/inline-17.css?p0v=b22ed30cc1628e0d",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-lxfd-chat-dock-bottom-gap": "",
+          "href": "/assets/frontend/css/pages/home/inline-18.css?p0v=fe5273230845c48f",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-lxfd-new-chat-border-final": "",
+          "href": "/assets/frontend/css/pages/home/inline-19.css?p0v=7a8bd9640ebfbc33",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-solution-result-shared": "",
+          "href": "/assets/frontend/css/core/solution-result.css?p0v=43a1a617617bc647",
+          "rel": "stylesheet"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "link",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/bundles/p0-home-core-3.js?p0v=8491f3cdf2b31a08"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-1"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-1",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/bundles/p0-home-core-4.js?p0v=8cafcb77ce9674dc"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-2"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-2",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-3"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-3",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-4"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-4",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-5"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-5",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-home-detail-alignment": ""
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "style",
+        "text": ".content[data-view=\"detail\"] .detail-primary{background:linear-gradient(90deg,#4d144a 11.9%,#b8252e 100%)!important;box-shadow:none!important}.content[data-view=\"detail\"] .detail-title{font-weight:600!important}.content[data-view=\"detail\"] "
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-6"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-6",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "id": "p0-commerce-style-7"
+        },
+        "children": [],
+        "classes": "",
+        "id": "p0-commerce-style-7",
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "template",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/followup-chevron-v1.js?p0v=845b3e54e80e4b4a"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "data-p0-inline-source": "/assets/frontend/js/core/composer-autogrow-v1.js"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": "(function () {\n  \"use strict\";\n\n  var SELECTOR = \".assistant-panel .assistant-bottom .composer textarea\";\n  var MIN_HEIGHT = 21;\n  var MAX_HEIGHT = 90;\n\n  function resize(textarea) {\n    if (!textarea || !textarea.matches(SELECTOR)) return;"
+      },
+      {
+        "attrs": {
+          "data-p0-inline-source": "/assets/frontend/js/core/composer-smart-actions-v1.js"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": "(function () {\n  \"use strict\";\n  var pageScenes = Object.create(null), currentScene = null;\n  var shownScenes = new Set(), sceneCandidate = '', sceneSince = 0;\n  var suppressRevealUntil = 0, lastUserMessageSignature = '', wasSending = false"
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/answer-actions-v1.js?p0v=cc3f7487fbe1651b"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/review-media-v1.js?p0v=af95f5cdffda1d1e"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/order-login-v1.js?p0v=ac02d9bf296f0fc2"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/thinking-auto-v1.js?p0v=8ee2a897a3409390"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/reco-match-v1.js?p0v=9a56eae55aad4bea"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/tab-reorder-v1.js?p0v=8dc5ecbb5c5b9ed3"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/prompt-menu-height-v1.js?p0v=d360d6b8c137a088"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "src": "/assets/frontend/js/core/education-auth-accessibility-v1.js?p0v=214a3172388c51d8"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      },
+      {
+        "attrs": {
+          "defer": "",
+          "src": "/assets/frontend/js/core/tabbar-compression-v1.js?p0v=3d614472748a0996"
+        },
+        "children": [],
+        "classes": "",
+        "id": null,
+        "rect": {
+          "height": 0,
+          "width": 0,
+          "x": 0,
+          "y": 0
+        },
+        "tag": "script",
+        "text": null
+      }
+    ],
+    "classes": "lx-auto-fs lxfd-force-motion assistant-fullscreen lx-root-home",
+    "id": null,
+    "rect": {
+      "height": 669.3333740234375,
+      "width": 1180,
+      "x": 0,
+      "y": 0
+    },
+    "tag": "body",
+    "text": null
+  },
+  "url": "https://p0.leaibot.cn/",
+  "viewport": {
+    "dpr": 1.5,
+    "innerHeight": 669,
+    "innerWidth": 565,
+    "scrollHeight": 669,
+    "scrollWidth": 1180
+  }
+}

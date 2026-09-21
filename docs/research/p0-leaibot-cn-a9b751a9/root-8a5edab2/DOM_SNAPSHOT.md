@@ -1,0 +1,42 @@
+- generic "联想乐享全屏对话":
+  - banner:
+    - link "新建对话并返回首页":
+      - /url: /
+      - img "联想乐享"
+    - navigation "全屏导航":
+      - button "展开导航":
+        - generic "开启新对话"
+    - generic "快捷入口":
+      - button "订单，3 个订单"
+      - button "个人中心"
+  - main:
+    - heading "联想乐享帮你 找门店" [level=1]:
+      - generic: 联想乐享帮你
+      - generic: 找门店
+    - textbox "输入你的问题":
+      - /placeholder: 推荐笔记本电脑
+    - button "深度思考(自动)" [pressed]
+    - button "解决方案"
+    - button "商品导购"
+    - button "更多"
+    - button "添加图片"
+    - button "发送"
+    - region "首页内容推荐":
+      - tablist "内容分类":
+        - button "新品"
+        - button "活动"
+        - button "新闻"
+        - button "案例"
+      - article:
+        - generic: 新品首发
+        - strong: 拯救者 Y9000P 2026
+        - generic: i9-14900HX ｜ RTX 5060 ｜ 2.5K 240Hz 电竞屏
+      - article:
+        - generic: 轻薄旗舰
+        - strong: YOGA Air 14c 2026
+        - generic: 酷睿 Ultra9 ｜ 32G/2T ｜ 2.8K OLED 触控
+      - article:
+        - generic: 全能之选
+        - strong: 小新Pad Pro 13英寸
+        - generic: 酷睿 Ultra5 225H ｜ 32G/1T ｜ 全能轻薄
+    - paragraph: 京ICP备11035381-2 | 京公网安备110108007970号 | 营业执照：91110108700000458B

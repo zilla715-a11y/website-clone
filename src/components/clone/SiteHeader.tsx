@@ -10,7 +10,7 @@ const assetRoot = "/sites/p0-leaibot-cn-a9b751a9/root-8a5edab2";
 const navItems = [
   { href: "/", label: "首页" },
   { href: "/explore/personal", label: "个人及家庭" },
-  { href: "/explore/small-business", label: "中小企业" },
+  { href: "/b-chat", label: "中小企业" },
   { href: "/explore/enterprise", label: "政教及大企业" },
   { href: "/explore/brand", label: "品牌" },
 ] as const;

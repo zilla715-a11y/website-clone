@@ -1,4 +1,4 @@
-import { notFound } from "next/navigation";
+import { notFound, redirect } from "next/navigation";
 
 import { LegalFooter } from "@/components/clone/LegalFooter";
 import { SectionLanding, type SectionContent } from "@/components/clone/SectionLanding";
@@ -57,6 +57,11 @@ export function generateStaticParams() {
 
 export default async function ExplorePage({ params }: ExplorePageProps) {
   const { section } = await params;
+
+  if (section === "small-business") {
+    redirect("/b-chat");
+  }
+
   const content = sections[section];
 
   if (!content) notFound();
